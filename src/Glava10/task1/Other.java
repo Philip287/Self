@@ -1,4 +1,4 @@
-package Glava10;
+package Glava10.task1;
 
 public class Other {
     inner returnited() {

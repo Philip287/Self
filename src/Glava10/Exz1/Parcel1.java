@@ -1,6 +1,4 @@
-package Exz1;
-
-import javax.print.attribute.standard.Destination;
+package Glava10.Exz1;
 
 public class Parcel1 {
     class Contents{
