@@ -1,6 +1,12 @@
-package Glava10.task1;
+package Glava10.Task1;
 
 public class Other {
+    private String s;
+
+    public Other(String s) {
+        this.s = s;
+    }
+
     inner returnited() {
         return new inner("Inner is done");
 
@@ -9,6 +15,11 @@ public class Other {
     class inner {
         String inner;
 
+        @Override
+        public String toString() {
+            return "Other inner = " + s;
+        }
+
         public inner(String inner) {
             this.inner = inner;
             System.out.println(inner);
@@ -16,8 +27,9 @@ public class Other {
     }
 
     public static void main(String[] args) {
-        Other other = new Other();
+        Other other = new Other( "Bird");
         System.out.println(other.returnited());
+        other.toString();
     }
 
 }
