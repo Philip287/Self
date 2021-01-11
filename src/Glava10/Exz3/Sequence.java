@@ -13,7 +13,7 @@ public class Sequence {
             items[next++] = x;
     }
 
-    public class SomeString{
+    public class SomeString {
         private String s;
 
         public SomeString(String s) {
@@ -27,6 +27,7 @@ public class Sequence {
 
 
     }
+
     private class SequenceSelector implements Selector {
         private int i = 0;
 
@@ -42,26 +43,36 @@ public class Sequence {
             if (i < items.length)
                 i++;
         }
+
+        public Sequence other() {
+            return Sequence.this;
+        }
+
     }
 
     public Selector selector() {
         return new SequenceSelector();
     }
-    public SomeString someString(String d){
+
+    public SomeString someString(String d) {
         return new SomeString(d);
     }
 
     public static void main(String[] args) {
         Sequence sequence = new Sequence(10);
         for (int i = 0; i < 5; i++) {
-         //   String d = Integer.toString(i + 10);
+            sequence.add((sequence.someString("number " + i)).toString());
             sequence.add(Integer.toString(i));
         }
+
         Selector selector = sequence.selector();
         while (!selector.end()) {
             System.out.print(selector.current() + " ");
             selector.next();
         }
+        System.out.println();
+        Sequence.SequenceSelector c = sequence.new SequenceSelector();
+        System.out.println(c.other());
 
     }
 

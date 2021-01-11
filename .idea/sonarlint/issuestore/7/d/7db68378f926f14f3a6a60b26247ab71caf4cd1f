@@ -1,15 +1,15 @@
 
-H
-java:S1481%"&Remove this unused "d" local variable.(ˆ®Åúþÿÿÿÿ8£”œ™ì.
 W
 java:S1854%"5Remove this useless assignment to local variable "d".(ˆ®Åúþÿÿÿÿ8£”œ™ì.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çùÜ˜ûÿÿÿÿ
-R
-java:S1854$"5Remove this useless assignment to local variable "c".(ÖÁ«™8¡µ™™ì.
+H
+java:S1481%"&Remove this unused "d" local variable.(ˆ®Åúþÿÿÿÿ8£”œ™ì.
 H
 java:S1481"&Remove this unused "c" local variable.(¦×«Ïúÿÿÿÿ8êû‹™ì.
 C
 java:S1481$"&Remove this unused "c" local variable.(ÖÁ«™8¡µ™™ì.
 W
 java:S1854"5Remove this useless assignment to local variable "c".(¦×«Ïúÿÿÿÿ8êû‹™ì.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çùÜ˜ûÿÿÿÿ
 U	java:S106"9Replace this use of System.out or System.err by a logger.(½™ë½8ÙÏŽ™ì.
+R
+java:S1854$"5Remove this useless assignment to local variable "c".(ÖÁ«™8¡µ™™ì.
