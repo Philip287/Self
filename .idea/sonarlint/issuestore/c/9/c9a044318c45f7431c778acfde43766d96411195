@@ -1,0 +1,9 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "box".(ÆÔåÙşÿÿÿÿ8É¦‘ğ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Çóÿ
+~
+java:S1488	"\Immediately return this expression instead of assigning it to the temporary variable "act1".(®‰¤ïûÿÿÿÿ8¥½š‘ğ.
+J
+java:S1481"(Remove this unused "box" local variable.(ÆÔåÙşÿÿÿÿ8É¦‘ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ŒÆá8÷¬‘ğ.
