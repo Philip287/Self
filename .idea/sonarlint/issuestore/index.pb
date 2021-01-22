@@ -31,3 +31,11 @@ S
 #src/Glava10/Task6/Class2/Banny.java,c\9\c9a044318c45f7431c778acfde43766d96411195
 P
  src/Glava10/Task7/MainClass.java,e\7\e7648d3f550dbed25b849e593f827c1559fd4760
+M
+src/Glava10/Exz8/Parcel5.java,5\a\5a11bacb56af0f719fd672ef37e200cdf294debe
+M
+src/Glava10/Exz9/Parcel6.java,0\6\06d01a933809816b7b8ec772a983cca845ff828a
+P
+ src/Glava10/Task8/Сonsole1.java,7\c\7c0cc4a1417d0db74fe2bfe3874f69e5a6cabcfa
+K
+src/Glava10/Task8/Home.java,e\d\ed02b03e02eca3e8e884232afa54a2a6519971f7

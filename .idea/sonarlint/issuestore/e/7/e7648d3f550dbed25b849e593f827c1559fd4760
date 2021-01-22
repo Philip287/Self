@@ -1,8 +1,13 @@
 
-K
-java:S1121".Extract the assignment out of this expression.(×è½Ì8•‡¨’ğ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(šûã‡şÿÿÿÿ8 €·’ğ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò“É°8°¡°’ğ.
+U
+java:S1854""8Remove this useless assignment to local variable "sec1".( ×ì¦8¯Ø±ğ.
+F
+java:S1481"")Remove this unused "sec1" local variable.( ×ì¦8¯¯Ù±ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıÈƒØ8”öä²ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¦ªá±ğ.
+F
+java:S1144"*Remove this unused private "print" method.(ªõ·a8”öä²ğ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ò“É°8°¡°’ğ.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¤ªØ
-O
-java:S2388"-Prefix this call to "toString" with "super.".(šûã‡şÿÿÿÿ8€ˆ»’ğ.
+@
+java:S3398"$Move this method into "SecondClass".(¾Õg8ø„ì±ğ.
