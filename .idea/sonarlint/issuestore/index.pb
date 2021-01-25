@@ -36,6 +36,16 @@ M
 M
 src/Glava10/Exz9/Parcel6.java,0\6\06d01a933809816b7b8ec772a983cca845ff828a
 P
- src/Glava10/Task8/Сonsole1.java,7\c\7c0cc4a1417d0db74fe2bfe3874f69e5a6cabcfa
+ src/Glava10/Task8/exz2/Home.java,9\1\91dfe86b851b1af1486eff4d4c91a5c9b3d203ff
+U
+%src/Glava10/Task8/exz2/Сonsole1.java,6\c\6c067632d507c912f83d958e8e102c8a4a424301
 K
-src/Glava10/Task8/Home.java,e\d\ed02b03e02eca3e8e884232afa54a2a6519971f7
+src/Glava10/Task9/Team.java,d\2\d259977e97a8e15afbdbcb3848a9c18c5ebd3482
+P
+ src/Glava10/Task8/ex1/Apple.java,d\1\d185e593869aef15737fbbb49ad4a75bdb8d22d9
+P
+ src/Glava10/Task8/ex1/Fruit.java,a\5\a5af286bc1b3d6e2c3b82f518f01088f22c36c99
+K
+src/Glava10/Task9/Work.java,4\8\48cea3f63dff558cfbe3fece772f9ee48f36a04d
+N
+src/Glava10/Exz10/Parcel7.java,9\2\92052dd083402955d2b1f4d0fec1f00cbb3420ff
