@@ -49,3 +49,19 @@ K
 src/Glava10/Task9/Work.java,4\8\48cea3f63dff558cfbe3fece772f9ee48f36a04d
 N
 src/Glava10/Exz10/Parcel7.java,9\2\92052dd083402955d2b1f4d0fec1f00cbb3420ff
+O
+src/Glava10/Exz10/Parcel7b.java,0\8\0859752d430efe150bb33050ae7b4a30e47f56d0
+O
+src/Glava10/Exz11/Wrapping.java,7\e\7ef68cf954cdd6a3563c0a263fe7ea4246d8eb43
+N
+src/Glava10/Exz11/Parcel8.java,9\8\9823fc3346198649cf864f5a8432d48dfefa7415
+N
+src/Glava10/Exz12/Parcel9.java,4\a\4a9053ef0e47766fc09d93d2690ee28aa14179a1
+K
+src/Glava10/Exz13/Base.java,8\2\827d7a0c825b811e8d6f507100acc595348bbc3f
+O
+src/Glava10/Exz14/Parcel10.java,8\b\8b4dad61b7509aa0db66103342051f45590d7037
+M
+src/Glava10/Task10/Print.java,4\6\46770f41e3bb583d252eaf98fb4dcdfe96ce639b
+M
+src/Glava10/Task10/Epson.java,1\1\1124dcf95bc2f5da1168965d16cda433b4e29455

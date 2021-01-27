@@ -14,7 +14,7 @@ public class Parcel10 {
             private String label = dest;
             @Override
             public String readLabel() {
-                return null;
+                return label;
             }
         };
     }

@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÈÃÖ8Şƒ¢Ïó.
+C
+java:S1481"&Remove this unused "d" local variable.(Æò‡8ÓÑ¦Ïó.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áš€úÿÿÿÿ
+R
+java:S1854"5Remove this useless assignment to local variable "d".(Æò‡8ÓÑ¦Ïó.
+{
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Şƒ¢Ïó.

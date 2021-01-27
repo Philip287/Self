@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¾ëÿÿÿÿÿ
+C
+java:S1481"&Remove this unused "w" local variable.(¥ØÚ‚8ÃüİÍó.
+R
+java:S1854"5Remove this useless assignment to local variable "w".(¥ØÚ‚8ÃüİÍó.
+\
+java:S1161":Add the "@Override" annotation above this method signature(®ª‚…ÿÿÿÿÿ8ªŒöó.

@@ -1,0 +1,12 @@
+
+s
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8ˆö‹øó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±òÂÌ
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¾“»øó.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ú˜îÄûÿÿÿÿ8øËÎøó.
+s
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìıÿÿÿÿ8çÌŠøó.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8‹ª½øó.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8çÌŠøó.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8´‘¾øó.
