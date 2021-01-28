@@ -1,6 +1,6 @@
 
 C
 java:S1481"&Remove this unused "d" local variable.(Ÿ÷Ö‡8€´šÎó.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ßÊÓıÿÿÿÿ
 R
 java:S1854"5Remove this useless assignment to local variable "d".(Ÿ÷Ö‡8€´šÎó.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ßÊÓıÿÿÿÿ

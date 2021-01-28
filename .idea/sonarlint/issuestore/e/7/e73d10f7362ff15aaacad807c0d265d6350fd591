@@ -1,0 +1,14 @@
+
+Y
+java:S1854-"7Remove this useless assignment to local variable "mon".(¶“ψÿÿÿÿ8¶¦ώ τ.
+J
+java:S1481-"(Remove this unused "mon" local variable.(¶“ψÿÿÿÿ8¶¦ώ τ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(τΜΏς8Σχ τ.
+E
+java:S1185"(Remove this method to simply inherit it.(ΪυΫ8ίτω τ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒΜβ–ψÿÿÿÿ8’συ τ.
+J
+java:S1185 "(Remove this method to simply inherit it.(­ΖÒόÿÿÿÿ8ίτω τ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘±±όÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ϋγ‡ώÿÿÿÿ8Σρ τ.

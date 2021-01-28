@@ -17,8 +17,12 @@ public class Laptop {
         return "Laptop name = " + name + ", model = " + model + ", coast = " + coast;
     }
 
-    public Monitor monitor() {
+    public Monitor monitor(String label) {
         return new Monitor("lG", "gf1876", 123) {
+            String setName(){
+                return name = label;
+            }
+
             @Override
             void on() {
                 super.on();
@@ -45,7 +49,7 @@ public class Laptop {
 
     public static void main(String[] args) {
         Laptop hp = new Laptop("HP", "Zbook 2", 2334);
-        Monitor lg = hp.monitor();
+        Monitor lg = hp.monitor(" lg");
         lg.on();
         lg.off();
     }

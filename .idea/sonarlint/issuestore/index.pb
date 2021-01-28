@@ -65,3 +65,29 @@ M
 src/Glava10/Task10/Print.java,4\6\46770f41e3bb583d252eaf98fb4dcdfe96ce639b
 M
 src/Glava10/Task10/Epson.java,1\1\1124dcf95bc2f5da1168965d16cda433b4e29455
+O
+src/Glava10/Task11/Macbook.java,e\7\e73d10f7362ff15aaacad807c0d265d6350fd591
+N
+src/Glava10/Task11/Laptop.java,8\b\8bc5b04f294759a106c1004755637da7d5eca807
+O
+src/Glava10/Task11/Monitor.java,8\1\813562ce401f4b5d41d566a086c3011e32ba6ff1
+N
+src/Glava10/Exz15/Service.java,0\c\0c6e619a8d1738924bd44fc849b6da02f8abd4c3
+U
+%src/Glava10/Exz15/ServiceFactory.java,c\9\c90e4cf46c02acb1d88887eaa071333512ce9bde
+V
+&src/Glava10/Exz15/Implementation1.java,b\4\b4ace6419c2e74fd893042a8f1674cface7cdc3e
+V
+&src/Glava10/Exz15/Implementation2.java,2\8\28c7413c614d12652184b79d9fb9d9a7d2f30960
+P
+ src/Glava10/Exz15/Factories.java,2\e\2e72a2bc29743c915a0111445e238575d44eb7a4
+K
+src/Glava10/Exz16/Game.java,7\d\7dad74380ead7a4207db59658628802f45674348
+R
+"src/Glava10/Exz16/GameFactory.java,4\d\4d368b7c224e447056fdb1990818a4d7f33ef9c3
+O
+src/Glava10/Exz16/Checkers.java,3\d\3dcadba34c4fbac48d1f3c7ffb7aa05e87ea5a78
+O
+src/Glava10/Exz16/PlayGame.java,d\a\da21ca5662bf80c3bc1c7310b400f83ba1ecc614
+L
+src/Glava10/Exz16/Chess.java,0\0\002ce619703f0e4a4f3b52cf3f73a2b3f67e1a85
