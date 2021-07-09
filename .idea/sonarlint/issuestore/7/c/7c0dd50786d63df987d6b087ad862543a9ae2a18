@@ -1,0 +1,16 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—êÚ¬8‰†¸šö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¼Œ8‰†¸šö.
+J
+java:S1604"(Make this anonymous inner class a lambda(úÿ…úÿÿÿÿ8ªÃÕåø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³·ğÛøÿÿÿÿ8‰†¸šö.
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8‰†¸šö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÌ…åùÿÿÿÿ8‰†¸šö.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”å”æ
+u
+java:S1104"SMake factory a static final constant or non-public and provide accessors if needed.(­´§½úÿÿÿÿ8Ñ¶Ùœö.
+O
+java:S1444"-Make this "public static factory" field final(­´§½úÿÿÿÿ8Ñ¶Ùœö.
+{
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "i".(¿ÏöÜùÿÿÿÿ8‰†¸šö.

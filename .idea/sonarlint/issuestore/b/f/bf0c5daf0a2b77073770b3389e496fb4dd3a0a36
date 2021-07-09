@@ -1,0 +1,20 @@
+
+H
+java:S1481("&Remove this unused "d" local variable.(’æìşÿÿÿÿ8Äø…ö.
+W
+java:S1854("5Remove this useless assignment to local variable "d".(’æìşÿÿÿÿ8Äø…ö.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­¯=8à•äö.
+V
+java:S1118":Add a private constructor to hide the implicit public one.(çï›	8ÁŸö.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ëÄóÊ8–İçö.
+C
+java:S1481'"&Remove this unused "c" local variable.(Ì–Úú8Äø…ö.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÊİÁüÿÿÿÿ
+R
+java:S1854'"5Remove this useless assignment to local variable "c".(Ì–Úú8Äø…ö.
+H
+java:S1481"&Remove this unused "x" local variable.(ï‰Àùÿÿÿÿ8İöèö.
+W
+java:S1854"5Remove this useless assignment to local variable "x".(ï‰Àùÿÿÿÿ8İöèö.

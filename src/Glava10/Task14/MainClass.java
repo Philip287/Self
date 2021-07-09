@@ -17,12 +17,10 @@ public class MainClass {
                 "if you want to exit, pleas enter 3");
         Integer num = im.nextInt();
 
-
-            if (num == 1) {
-                serviceConsumer(RearrangeStatic.factory);
-            } else {
-                serviceConsumer(RearrangeInput.factory);
-            }
-
+        if (num == 1) {
+            serviceConsumer(RearrangeStatic.factory);
+        } else {
+            serviceConsumer(RearrangeInput.factory);
+        }
     }
 }

@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÓá´şÿÿÿÿ
+>
+java:S1643"Use a StringBuilder instead.(‹ß§êüÿÿÿÿ8·¬àÄô.
+y
+java:S1488
+"\Immediately return this expression instead of assigning it to the temporary variable "str1".(Æ¡ÉÊ8Şõ¯Áô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8·¬àÄô.
+J
+java:S1444"-Make this "public static factory" field final(ÎĞ²Ù8¡¯ŠÂô.
+9
+java:S1643"Use a StringBuilder instead.(ï£¢8·¬àÄô.
+E
+java:S1604"(Make this anonymous inner class a lambda(üı‹¸8°®ïÂô.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(áûıû8§¿¬Áô.
+p
+java:S1104"SMake factory a static final constant or non-public and provide accessors if needed.(ÎĞ²Ù8¡¯ŠÂô.

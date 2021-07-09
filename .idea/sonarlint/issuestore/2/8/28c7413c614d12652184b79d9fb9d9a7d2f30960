@@ -1,10 +1,10 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡›³êûÿÿÿÿ8‡éÉ¡ô.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öœ÷®ÿÿÿÿÿ
+u
+java:S1104"SMake factory a static final constant or non-public and provide accessors if needed.(³£…õşÿÿÿÿ8á…í¡ô.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÚòÇÿ8á…í¡ô.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(”°—8©©Ê¡ô.
 O
 java:S1444"-Make this "public static factory" field final(³£…õşÿÿÿÿ8á…í¡ô.
-E
-java:S1604"(Make this anonymous inner class a lambda(ÚòÇÿ8á…í¡ô.
-u
-java:S1104"SMake factory a static final constant or non-public and provide accessors if needed.(³£…õşÿÿÿÿ8á…í¡ô.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öœ÷®ÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡›³êûÿÿÿÿ8‡éÉ¡ô.

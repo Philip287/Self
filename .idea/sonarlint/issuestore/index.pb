@@ -91,3 +91,29 @@ O
 src/Glava10/Exz16/PlayGame.java,d\a\da21ca5662bf80c3bc1c7310b400f83ba1ecc614
 L
 src/Glava10/Exz16/Chess.java,0\0\002ce619703f0e4a4f3b52cf3f73a2b3f67e1a85
+X
+(src/Glava10/Task14/RearrangeFactory.java,4\e\4e386cae9d08206116fbff9a76d67bf264597dff
+Q
+!src/Glava10/Task14/Processor.java,e\a\eaee3c06b21d7c0255ffad21e319e2680b37af42
+V
+&src/Glava10/Task14/RearrangeInput.java,0\4\0440138ec5dab2d53423694997455cec156500e0
+W
+'src/Glava10/Task14/RearrangeStatic.java,8\d\8d451804988738b8d6ec526fe63ec96ab7bb6868
+Q
+!src/Glava10/Task14/MainClass.java,f\e\febbc3e1e7af5daf2b3ebeb7c261afe2e32287eb
+S
+#src/Glava10/Task15/GameFactory.java,f\2\f2b2d45f361a1e1c5cc95527dff90713297bbb04
+M
+src/Glava10/Task15/Сoin.java,7\c\7c0dd50786d63df987d6b087ad862543a9ae2a18
+L
+src/Glava10/Task15/Game.java,e\6\e6a986a0b90730c5f3f3cbdb2c63446bf7dc710c
+M
+src/Glava10/Task15/Сube.java,5\b\5b829ac1070f3f63486f966e57267a4221b23551
+P
+ src/Glava10/Task15/Factoris.java,7\0\70fdd0a18f193529d80e880b2fe61b05ea067ae5
+O
+src/Glava10/Exz17/Parcel11.java,b\f\bf0c5daf0a2b77073770b3389e496fb4dd3a0a36
+T
+$src/Glava10/Task16/OutsideClass.java,2\1\21ddc2464739e080cca1167aece546210630eb4e
+F
+src/Glava11/Apple.java,1\1\11e75b15bd4aa7162213262457970173d3ecb330
