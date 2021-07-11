@@ -117,3 +117,7 @@ T
 $src/Glava10/Task16/OutsideClass.java,2\1\21ddc2464739e080cca1167aece546210630eb4e
 F
 src/Glava11/Apple.java,1\1\11e75b15bd4aa7162213262457970173d3ecb330
+P
+ src/JavaVideo/List/ToDoList.java,1\2\12b2111b1a8de23dc1d82a721af42bde0f996d82
+R
+"src/JavaVideo/List/ListRunner.java,c\8\c86f5d40eaaa5cd2dd2a408e73d418e01e7c3850
