@@ -1,0 +1,11 @@
+
+C
+java:S1481"&Remove this unused "n" local variable.(“²Ÿ¯8³“—Ý©/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÇžÑÿÿÿÿÿ
+W
+java:S1854"5Remove this useless assignment to local variable "m".(ò¯å­ýÿÿÿÿ8ÙÊ›Ý©/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©Õ˜àýÿÿÿÿ8Œ°öÝ©/
+H
+java:S1481"&Remove this unused "m" local variable.(ò¯å­ýÿÿÿÿ8ÙÊ›Ý©/
+R
+java:S1854"5Remove this useless assignment to local variable "n".(“²Ÿ¯8³“—Ý©/
