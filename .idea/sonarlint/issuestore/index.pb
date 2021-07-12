@@ -121,3 +121,7 @@ P
  src/JavaVideo/List/ToDoList.java,1\2\12b2111b1a8de23dc1d82a721af42bde0f996d82
 R
 "src/JavaVideo/List/ListRunner.java,c\8\c86f5d40eaaa5cd2dd2a408e73d418e01e7c3850
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+V
+&src/JavaVideo/List/CollectionMain.java,1\9\19f83c440ea0c7fa1ea10a21ef234c3c1dcab390
