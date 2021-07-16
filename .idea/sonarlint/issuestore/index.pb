@@ -125,3 +125,5 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 V
 &src/JavaVideo/List/CollectionMain.java,1\9\19f83c440ea0c7fa1ea10a21ef234c3c1dcab390
+h
+8src/JavaVideo/List/collectionClass/collectionRunner.java,d\7\d75f03713006c719ddc1e9b1d486b39f686e1d6e
