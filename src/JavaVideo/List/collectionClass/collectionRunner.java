@@ -1,8 +1,6 @@
 package JavaVideo.List.collectionClass;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class collectionRunner {
     public static void main(String[] args) {
@@ -26,7 +24,18 @@ public class collectionRunner {
          }
         System.out.println("Original deck of cards");
         for (int i = 0; i < deckOfCards.size(); i++) {
-            System.out.printf();
+            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
+        }
+        Collections.shuffle(deckOfCards);
+        System.out.println("\n \n Cards after shuffle");
+        for (int i = 0; i < deckOfCards.size(); i++) {
+            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
+        }
+
+        Collections.sort(deckOfCards, Collections.reverseOrder());
+        System.out.println("\n \n Cards after sort");
+        for (int i = 0; i < deckOfCards.size(); i++) {
+            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
         }
     }
 
