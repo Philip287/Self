@@ -1,4 +1,4 @@
-package JavaVideo.List;
+package JavaVideo.List.collectionClass;
 
 
 import java.util.Iterator;

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-class Card implements Comparable<Card> {
+public class Card implements Comparable<Card> {
 
     public enum Suit {SPADES, HEARTS, CLUBS, DIMONDS}
 
