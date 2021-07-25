@@ -23,63 +23,49 @@ public class collectionRunner {
              }
          }
         System.out.println("Original deck of cards");
-        for (int i = 0; i < deckOfCards.size(); i++) {
-            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
-        }
+        printOutput(deckOfCards);
         Collections.shuffle(deckOfCards);
+        Collections.sort(deckOfCards);
+        Collections.reverse(deckOfCards);
+
+        Card card = new Card(Card.Suit.SPADES, Card.Face.Queen);
+        int i = Collections.binarySearch(deckOfCards, card);
+        if (i>0){
+            System.out.println("Card was found at position: " + i);
+        } else {
+            System.out.println("Card was not found");
+
+        }
+
+        List<Card> cardList = new ArrayList<>(deckOfCards);
+        Collections.fill(cardList, card);
+        printOutput(cardList);
+
+        Collections.addAll(cardList, card, card, card);
+        printOutput(cardList);
+
+        Collections.copy(cardList, deckOfCards);
+        printOutput(cardList);
+
+        int frequency = Collections.frequency(cardList, card);
+        System.out.println("Frequency of " + card + "  is "+ frequency);
+
+        System.out.println("Min: " + Collections.min(cardList));
+        System.out.println("Max: " + Collections.max(cardList));
+
         System.out.println("\n \n Cards after shuffle");
-        for (int i = 0; i < deckOfCards.size(); i++) {
-            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
-        }
+        printOutput((List<Card>) deckOfCards);
 
-        Collections.sort(deckOfCards, Collections.reverseOrder());
+        Collections.sort(deckOfCards, new CardComparator() {
+        });
         System.out.println("\n \n Cards after sort");
+        printOutput(deckOfCards);
+    }
+
+    private static void printOutput(List<Card> deckOfCards) {
         for (int i = 0; i < deckOfCards.size(); i++) {
-            System.out.printf("%-20s %s", deckOfCards.get(i), (i+1)%4==0 ? "\n" : " ");
+            System.out.printf("%-20s %s", deckOfCards.get(i), (i + 1) % 4 == 0 ? "\n" : " ");
         }
     }
 
-    public static class Card implements Comparable<Card> {
-
-        private enum Suit {SPADES, HEARTS, CLUBS, DIMONDS}
-
-        private enum Face {Ace, Deuce, Three, Four, Six, Seven, Eight, Nine, Ten, Jack, Queen, King}
-
-        private final Suit suit;
-
-        private final Face face;
-
-        public Card(Suit suit, Face face) {
-            this.suit = suit;
-            this.face = face;
-        }
-
-        public Suit getSuit() {
-            return suit;
-        }
-
-        public Face getFace() {
-            return face;
-        }
-
-        @Override
-        public int compareTo(Card card) {
-            Face[] values = Face.values();
-            List<Face> faces = Arrays.asList(values);
-
-            if (faces.indexOf(this.face) < faces.indexOf(card.getFace())) {
-                return -1;
-            } else if (faces.indexOf(this.face) > faces.indexOf(card.getFace())) {
-                return +1;
-            }else if (faces.indexOf(this.face) == faces.indexOf(card.getFace())) {
-                return String.valueOf(suit).compareTo(String.valueOf(card.suit));
-            }
-            return 0;
-        }
-
-        @Override
-        public String toString() {
-            return face + " of " + suit;
-        }
-    }
 }

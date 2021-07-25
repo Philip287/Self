@@ -127,3 +127,9 @@ V
 &src/JavaVideo/List/CollectionMain.java,1\9\19f83c440ea0c7fa1ea10a21ef234c3c1dcab390
 h
 8src/JavaVideo/List/collectionClass/collectionRunner.java,d\7\d75f03713006c719ddc1e9b1d486b39f686e1d6e
+e
+5src/JavaVideo/List/StackQuque/StackQueueLauncher.java,4\1\417f088aaf727d90685c8eee24f25f9d46693c33
+f
+6src/JavaVideo/List/collectionClass/CardComparator.java,2\d\2dcaf1367f91682643d3bbd90f8113179907bb7e
+\
+,src/JavaVideo/List/collectionClass/Card.java,4\e\4ebebe63bfd7aaa183f56a0816028159eeeb5054
