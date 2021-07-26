@@ -117,14 +117,8 @@ T
 $src/Glava10/Task16/OutsideClass.java,2\1\21ddc2464739e080cca1167aece546210630eb4e
 F
 src/Glava11/Apple.java,1\1\11e75b15bd4aa7162213262457970173d3ecb330
-P
- src/JavaVideo/List/ToDoList.java,1\2\12b2111b1a8de23dc1d82a721af42bde0f996d82
-R
-"src/JavaVideo/List/ListRunner.java,c\8\c86f5d40eaaa5cd2dd2a408e73d418e01e7c3850
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-V
-&src/JavaVideo/List/CollectionMain.java,1\9\19f83c440ea0c7fa1ea10a21ef234c3c1dcab390
 h
 8src/JavaVideo/List/collectionClass/collectionRunner.java,d\7\d75f03713006c719ddc1e9b1d486b39f686e1d6e
 e
@@ -133,3 +127,9 @@ f
 6src/JavaVideo/List/collectionClass/CardComparator.java,2\d\2dcaf1367f91682643d3bbd90f8113179907bb7e
 \
 ,src/JavaVideo/List/collectionClass/Card.java,4\e\4ebebe63bfd7aaa183f56a0816028159eeeb5054
+f
+6src/JavaVideo/List/collectionClass/CollectionMain.java,1\a\1a95e8008a29a62706972035f8111be8dd277d4d
+b
+2src/JavaVideo/List/collectionClass/ListRunner.java,b\2\b271565997d51f891a3e9505609fe57d3ac1cc9a
+`
+0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2

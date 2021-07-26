@@ -1,14 +1,0 @@
-
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãúıøÿÿÿÿ8ŠÎ·à¨/
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡äãÀ8Ğ·¤ª©/
-4
-java:S1700
-"Rename field "toDoList"(’İ¢8È—„à¨/
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÏàíÃøÿÿÿÿ8è†ş¨©/
-X	java:S125'"<This block of commented-out lines of code should be removed.(µŠŸ¥8Ñ¿ñ¨©/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÇÑÿÿÿÿÿ
-V
-java:S3516"9Refactor this method to not always return the same value.(¨¤­á8ãıª©/
-]	java:S125*"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ñ¿ñ¨©/
-X	java:S125"<This block of commented-out lines of code should be removed.(áÖ˜æ8¼šª©/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(™‡²ÿÿÿÿÿ8®’Ìª©/
