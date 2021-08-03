@@ -49,9 +49,26 @@ public class SetRunner {
         sixCars.add(new Car("VW", "Golf",45));
         sixCars.add(new Car("VW", "Polo",35));
 
-        Set<Car> uniqueCars = new HashSet<>(sixCars);
+        NavigableSet<Car> uniqueCars = new TreeSet<>(sixCars);
         uniqueCars.addAll(europaCars);
+        //print(uniqueCars);
+      //  SortedSet cars = uniqueCars.headSet(new Car("Toyota", "Auris",40));
+        SortedSet cars = uniqueCars.subSet(new Car("Toyota", "Auris",40), true,
+                new Car("Audi", "A3", 60), true);
+
+
         print(uniqueCars);
+        System.out.println("Hire: ");
+        System.out.println(uniqueCars.higher(new Car("Toyota", "Auris",40)));
+
+        System.out.println("Lower: ");
+        System.out.println(uniqueCars.lower(new Car("Toyota", "Auris",40)));
+
+        System.out.println("ceiling: ");
+        System.out.println(uniqueCars.ceiling(new Car("Toyota", "Auris",43)));
+
+        System.out.println("floor: ");
+        System.out.println(uniqueCars.floor(new Car("Toyota", "Auris",43)));
 
     }
 
@@ -60,6 +77,5 @@ public class SetRunner {
         for (Car car : cars) {
              System.out.printf("%-20s %-20s %-20s \n", car.getCarBrand(), car.getModel(), car.getPricePerDay());
         }
-
     }
 }

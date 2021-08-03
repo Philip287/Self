@@ -133,3 +133,7 @@ b
 2src/JavaVideo/List/collectionClass/ListRunner.java,b\2\b271565997d51f891a3e9505609fe57d3ac1cc9a
 `
 0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
+@
+src/set/Car.java,b\c\bc282acb15aef98e778fd61535fd4483246579da
+F
+src/set/SetRunner.java,c\9\c9eb8bec440ee6adf99cc94001f0435777a18740
