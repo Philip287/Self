@@ -117,8 +117,6 @@ T
 $src/Glava10/Task16/OutsideClass.java,2\1\21ddc2464739e080cca1167aece546210630eb4e
 F
 src/Glava11/Apple.java,1\1\11e75b15bd4aa7162213262457970173d3ecb330
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 h
 8src/JavaVideo/List/collectionClass/collectionRunner.java,d\7\d75f03713006c719ddc1e9b1d486b39f686e1d6e
 e
@@ -133,7 +131,5 @@ b
 2src/JavaVideo/List/collectionClass/ListRunner.java,b\2\b271565997d51f891a3e9505609fe57d3ac1cc9a
 `
 0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
-@
-src/set/Car.java,b\c\bc282acb15aef98e778fd61535fd4483246579da
 F
 src/set/SetRunner.java,c\9\c9eb8bec440ee6adf99cc94001f0435777a18740

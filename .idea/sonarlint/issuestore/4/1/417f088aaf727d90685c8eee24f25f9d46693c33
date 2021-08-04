@@ -1,0 +1,16 @@
+
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(‡Êà58ğ¬ë­/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê¦úüÿÿÿÿ
+]	java:S125
+"<This block of commented-out lines of code should be removed.(²µÍùÿÿÿÿ8Ş÷€ë­/
+]	java:S125."<This block of commented-out lines of code should be removed.(ìÈÙøıÿÿÿÿ8áÈŸë­/
+r
+java:S1149<"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¢ºÒÏùÿÿÿÿ8ÖÊ…–­/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ïóğö8Ş÷€ë­/
+U
+java:S1144;"8Remove this unused private "passengerProcessing" method.(¶×Ñ8Ş÷€ë­/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(˜ÙË÷ùÿÿÿÿ8Ş÷€ë­/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(œ¢¸8Ş÷€ë­/
+T	java:S1065"9Replace this use of System.out or System.err by a logger.(‡Êà58Æ“¬ë­/
+]	java:S125"<This block of commented-out lines of code should be removed.(ìÈÙøıÿÿÿÿ8Ìœ‘ë­/
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(‡Êà58–Ó®ë­/
