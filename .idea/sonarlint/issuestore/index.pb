@@ -115,8 +115,6 @@ O
 src/Glava10/Exz17/Parcel11.java,b\f\bf0c5daf0a2b77073770b3389e496fb4dd3a0a36
 T
 $src/Glava10/Task16/OutsideClass.java,2\1\21ddc2464739e080cca1167aece546210630eb4e
-F
-src/Glava11/Apple.java,1\1\11e75b15bd4aa7162213262457970173d3ecb330
 h
 8src/JavaVideo/List/collectionClass/collectionRunner.java,d\7\d75f03713006c719ddc1e9b1d486b39f686e1d6e
 e
@@ -131,5 +129,9 @@ b
 2src/JavaVideo/List/collectionClass/ListRunner.java,b\2\b271565997d51f891a3e9505609fe57d3ac1cc9a
 `
 0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
-F
-src/set/SetRunner.java,c\9\c9eb8bec440ee6adf99cc94001f0435777a18740
+W
+'src/JavaVideo/List/Map/MapLauncher.java,8\a\8af34f03908c8bae092bea3a6c12f3898f2acd6d
+W
+'src/JavaVideo/List/Map/WordWrapper.java,d\d\dd4f4f6febcda925ecec40fd2c4d7e459edebbf6
+\
+,src/JavaVideo/List/treemap/SubjectGrade.java,2\a\2ab1cbb234041ea45de14e473cae137da962c010

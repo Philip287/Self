@@ -1,4 +1,4 @@
-package Glava11;
+package Glava11.Klasswork;
 
 import java.util.ArrayList;
 
@@ -9,9 +9,17 @@ public class Apple {
     public long id() {
         return id;
     }
+
+    @Override
+    public String toString() {
+        return "Apple{" +
+                "id=" + id +
+                '}';
+    }
 }
 
 class Orange {
+
 }
 
 class ApplesAndOrangesWithoutGenerics {
@@ -22,7 +30,8 @@ class ApplesAndOrangesWithoutGenerics {
             apples.add(new Apple());
         // не мешает добавить orange в apples
         apples.add(new Orange());
-        for (int i = 0; i < apples.size(); i++)
-        System.out.println(((Apple) apples.get(i)).id());
+        for (int i = 0; i < apples.size(); i++) {
+            System.out.println(((Apple)apples.get(i)).id());
+        }
     }
 }
