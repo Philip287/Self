@@ -1,5 +1,7 @@
 package Glava11.HomeTask.Task2;
 
+import java.util.Iterator;
+
 public class Gerbil {
     private final int gerbilNumber;
 
@@ -7,9 +9,18 @@ public class Gerbil {
         this.gerbilNumber = gerbilNumber;
     }
 
-    public static int hop(Gerbil c){
-        System.out.println("Short message, number = " + c.gerbilNumber);
-        return c.gerbilNumber;
+    @Override
+    public String toString() {
+        return "gerbilNumber = " + gerbilNumber;
+    }
+
+    public static void hop(Iterator<Gerbil> c) {
+        while (c.hasNext()){
+            Gerbil p = c.next();
+            System.out.println("Short message, number = " + p);
+        }
+
+
     }
 
 }

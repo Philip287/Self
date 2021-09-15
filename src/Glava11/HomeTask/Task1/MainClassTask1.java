@@ -13,8 +13,9 @@ public class MainClassTask1 {
             gerb.add(new Gerbil(i));
         }
         int i;
-        for (int j = 0; j < gerb.size(); j++) {
-            hop(gerb.get(j));
-        }
+        hop(gerb.iterator());
+       /* for (int j = 0; j < gerb.size(); j++) {
+            hop(gerb.iterator());
+        }*/
     }
 }
