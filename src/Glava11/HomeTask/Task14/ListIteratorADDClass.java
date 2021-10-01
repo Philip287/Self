@@ -19,6 +19,4 @@ public class ListIteratorADDClass {
         }
         System.out.println(linkListInt.toString());
     }
-
-
 }
