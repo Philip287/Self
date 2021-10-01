@@ -3,7 +3,7 @@ import  Glava11.Klasswork.Stack;
 
 public class StackHome {
     public static void main(String[] args) {
-        Glava11.Klasswork.Stack<String> stack = new Glava11.Klasswork.Stack<String>();
+        Glava11.Klasswork.Stack<String> stack = new Glava11.Klasswork.Stack<>();
         stack.push("u");
         stack.push("n");
         stack.push("c");
