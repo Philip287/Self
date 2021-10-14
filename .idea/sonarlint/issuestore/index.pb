@@ -225,8 +225,6 @@ Y
 )src/Glava11/HomeTask/Task10/Squirrel.java,6\a\6ac7d5a4e66da25581b91b59ddd25018b83855d3
 X
 (src/Glava11/Klasswork/StringCreator.java,0\e\0e95b2c63cb2e39a700b15ab5d7775c20ff2f284
-a
-1src/Glava11/HomeTask/Task12/ListIteratorTask.java,8\2\82478779b6a2ce862712aa565e4cf059dc8ac43f
 W
 'src/Glava11/HomeTask/Task10/Rodent.java,6\1\613f6c7a80618c3c12e7f49ba734c1cef755d392
 Z
@@ -245,3 +243,19 @@ c
 ,src/Glava11/Klasswork/Pet/JavaSkillMain.java,1\d\1d209931d2f5ab12a86dc192ff0364a44bf82834
 ]
 -src/Glava11/Klasswork/LinkedListFeatures.java,0\7\077a64ad40a010f769baa811b5dcb419f3f922f0
+P
+ src/Glava11/Klasswork/Stack.java,f\3\f32cc3f5c181e80beb3cb588dc7f8ebf725e77d0
+Y
+)src/Glava11/Klasswork/StackCollision.java,3\9\39a470fbb4304c99681c2ddf44b1cb9c363c409e
+T
+$src/Glava11/Klasswork/StackTest.java,6\8\682c24f2214a7a6a796a210f9ab28bf01bf5adc7
+W
+'src/Glava11/Klasswork/SetOfInteger.java,0\1\0148a7d1689cf7c7716c0978cf95b76d38a6a24d
+a
+1src/Glava11/HomeTask/Task12/ListIteratorTask.java,8\2\82478779b6a2ce862712aa565e4cf059dc8ac43f
+e
+5src/Glava11/HomeTask/Task14/ListIteratorADDClass.java,3\2\324c71f4d0cf7709814b5ecbd869a13dd187d272
+]
+-src/Glava11/Klasswork/SortedSetOfInteger.java,7\7\77cc130e8fa9c883fe870a7bd4a091e121838cd9
+X
+(src/Glava11/Klasswork/SetOperations.java,2\4\24437e5769f560c105251fb2babb3698700b4887
