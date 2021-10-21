@@ -259,3 +259,11 @@ e
 -src/Glava11/Klasswork/SortedSetOfInteger.java,7\7\77cc130e8fa9c883fe870a7bd4a091e121838cd9
 X
 (src/Glava11/Klasswork/SetOperations.java,2\4\24437e5769f560c105251fb2babb3698700b4887
+\
+,src/Glava11/HomeTask/Task16/SetHomeTask.java,d\0\d0aac5bf562ea322556c334c747b952d67321787
+`
+0src/Glava11/Klasswork/UniqueWordsAlphabetic.java,b\9\b93822f482533208d825051fd4f0d052cae6490c
+V
+&src/Glava11/Klasswork/UniqueWords.java,9\d\9d4171080fda2e45be1bca4e1d9f49c927fed2c1
+Z
+*src/Glava11/HomeTask/Task15/StackHome.java,f\b\fb099f5f27880d253e569311d3353f8d8fef4ea6
