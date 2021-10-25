@@ -179,8 +179,6 @@ Z
 *src/Glava11/Klasswork/Pet/EgyptianMau.java,4\c\4c9fe30563e9170603f88337aec7eeab496975bd
 `
 0src/Glava11/Klasswork/Pet/ForNamePetCreator.java,d\2\d20535f4222dcc1116e8237ab2d38574a6a4c8e3
-V
-&src/Glava11/HomeTask/Task2/Gerbil.java,8\1\81c7edde926f41e4d8de8cef40ed9c65af0cb1d1
 X
 (src/Glava11/HomeTask/Task10/Hamster.java,c\3\c3b4008687922e2504745c47b705a628b3770a02
 V
@@ -191,8 +189,6 @@ Y
 )src/Glava11/Klasswork/Pet/IntCreator.java,1\b\1b8580f9e73f1da30bb45f6c795ff89e297aa9e5
 W
 'src/Glava11/Klasswork/ListFeatures.java,e\8\e8c931c1bcbbbaba2d980a655c8ecf7c4909074d
-^
-.src/Glava11/HomeTask/Task1/MainClassTask1.java,7\5\7531c848df5cdeae889f4022dcc138ac7f189495
 Z
 *src/Glava11/HomeTask/Task7/MainuClass.java,5\c\5c7c567deb8dda09ec490c16a46970e053338925
 S
