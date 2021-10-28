@@ -121,22 +121,12 @@ b
 2src/JavaVideo/List/collectionClass/ListRunner.java,b\2\b271565997d51f891a3e9505609fe57d3ac1cc9a
 `
 0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
-W
-'src/JavaVideo/List/Map/MapLauncher.java,8\a\8af34f03908c8bae092bea3a6c12f3898f2acd6d
-W
-'src/JavaVideo/List/Map/WordWrapper.java,d\d\dd4f4f6febcda925ecec40fd2c4d7e459edebbf6
-\
-,src/JavaVideo/List/treemap/SubjectGrade.java,2\a\2ab1cbb234041ea45de14e473cae137da962c010
-O
-src/JavaVideo/List/set/Car.java,4\f\4f10e590e5df3657cff52e7b268712ebeba88675
 U
 %src/JavaVideo/List/set/SetRunner.java,d\3\d375cfe3002ecd28ec08520b002142895b257815
 P
  src/Glava11/Klasswork/Apple.java,7\f\7fee08881b302cb9302dc8176b95fc546ab100ea
 Z
 *src/Glava11/Klasswork/AsListInference.java,a\e\aee982d3c6f9950a39438c72b6d1ce6a4bad9a40
-c
-3src/JavaVideo/List/treemap/AverageStudentGrade.java,4\d\4de57119dce4dda8476923ca6c83571295aca6a2
 V
 &src/Glava11/Klasswork/CrannySmith.java,7\2\728d126a05b2de4e81c203e188c2e36d81d4e7d4
 X
@@ -145,8 +135,6 @@ X
 (src/Glava11/HomeTask/Task3/Sequence.java,1\0\1021816a5e518b22a880ea75ddfd70377ef51e07
 [
 +src/Glava11/Klasswork/SimpleCollection.java,c\4\c4c14d02c3ad3ea29a5b20754707ff560686c891
-]
--src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
 ]
 -src/Glava11/Klasswork/PrintingContainers.java,7\6\76badb9130716e735df7d981c167c21a19058542
 h
@@ -263,3 +251,19 @@ V
 &src/Glava11/Klasswork/UniqueWords.java,9\d\9d4171080fda2e45be1bca4e1d9f49c927fed2c1
 Z
 *src/Glava11/HomeTask/Task15/StackHome.java,f\b\fb099f5f27880d253e569311d3353f8d8fef4ea6
+U
+%src/Glava11/Klasswork/Statistics.java,1\b\1b7a15a434f7e1e03d77bf2de8d72d1e61bcad04
+Q
+!src/Glava11/Klasswork/PetMap.java,5\4\544c1b29ce025e60735ac5e1645eac9b2ea4ee02
+W
+'src/JavaVideo/List/Map/WordWrapper.java,d\d\dd4f4f6febcda925ecec40fd2c4d7e459edebbf6
+O
+src/JavaVideo/List/set/Car.java,4\f\4f10e590e5df3657cff52e7b268712ebeba88675
+\
+,src/JavaVideo/List/treemap/SubjectGrade.java,2\a\2ab1cbb234041ea45de14e473cae137da962c010
+c
+3src/JavaVideo/List/treemap/AverageStudentGrade.java,4\d\4de57119dce4dda8476923ca6c83571295aca6a2
+W
+'src/JavaVideo/List/Map/MapLauncher.java,8\a\8af34f03908c8bae092bea3a6c12f3898f2acd6d
+]
+-src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
