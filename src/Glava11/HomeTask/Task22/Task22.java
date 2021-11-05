@@ -5,29 +5,41 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 
-import static java.lang.String.CASE_INSENSITIVE_ORDER;
-
 public class Task22 {
     public static void main(String[] args) throws IOException {
-        List<String> list1 = Files.readAllLines(
-                Paths.get("C:\\Users\\hp\\SetOperations.java"));
-        Set<String> words =
-                new TreeSet<>(CASE_INSENSITIVE_ORDER);
-        int counter = 0;
-        Set<KlassSave> wordMap = new HashSet<>();
+        List<String> list1 = Files.readAllLines(Paths.get("C:\\Users\\hp\\SetOperations.java"));
+        Set<KlassSave> words = new HashSet<>();
         for (String line : list1) {
             for (String word : line.split("\\W+")) {
-                Boolean count = wordMap.contains(word);
-                int count1 = 0;
-                if (count == false) {
-                    wordMap.add(new KlassSave(word.toString(), 1));
-                } else {
-                    wordMap.remove(word);
-                    wordMap.add(new KlassSave(word.toString(), count1+1));
-                }
+                    boolean count = words.add(new KlassSave(word, 1));
+                    if (count == false) {
+                        int counter = getInt(words.iterator(), word);
+                        if(words.remove(new KlassSave(word, counter))==true){
+                            System.out.println(word + " " + counter + " Exelent");
+                        } else {
+                            System.out.println(word  + counter + " not exellent");
+                        };
+                        words.add(new KlassSave(word, counter + 1));
+                    } else {
+                        System.out.println("iteration " + "-"   );
+                    }
             }
         }
-        System.out.println(wordMap);
+        System.out.println(words);
 
+    }
+
+
+    public static int getInt(Iterator<KlassSave> c, String words) {
+        int i;
+        while (c.hasNext()) {
+            KlassSave p = c.next();
+            if (p.getStr1().equals(words)) {
+                i = p.getCount();
+                System.out.println( p.getStr1()+ " i " +i);
+                return i;
+            }
+        }
+        return 0;
     }
 }

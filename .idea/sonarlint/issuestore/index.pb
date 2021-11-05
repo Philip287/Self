@@ -249,8 +249,6 @@ c
 3src/JavaVideo/List/treemap/AverageStudentGrade.java,4\d\4de57119dce4dda8476923ca6c83571295aca6a2
 ]
 -src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
-V
-&src/Glava11/HomeTask/Task2/Gerbil.java,8\1\81c7edde926f41e4d8de8cef40ed9c65af0cb1d1
 Z
 *src/Glava11/HomeTask/Task15/StackHome.java,f\b\fb099f5f27880d253e569311d3353f8d8fef4ea6
 e
@@ -265,3 +263,13 @@ V
 +src/Glava11/HomeTask/Task13/Controller.java,b\0\b065b54a182f64036aaabc2a8c0494d492186ac3
 W
 'src/JavaVideo/List/Map/WordWrapper.java,d\d\dd4f4f6febcda925ecec40fd2c4d7e459edebbf6
+W
+'src/JavaVideo/List/Map/MapLauncher.java,8\a\8af34f03908c8bae092bea3a6c12f3898f2acd6d
+Z
+*src/Glava11/HomeTask/Task17/mapTask17.java,c\6\c6a99b1803efe1619dae1193abd7392526788ac8
+a
+1src/Glava11/HomeTask/Task12/ListIteratorTask.java,8\2\82478779b6a2ce862712aa565e4cf059dc8ac43f
+T
+$src/Glava11/Klasswork/MapOfList.java,7\e\7ef21190f03bbea3e4791ab2e4ecf2944d956fa7
+Z
+*src/Glava11/HomeTask/Task18/HashMap18.java,6\b\6bdf640107b95694f3083f5d8f83e5bbf24534b5
