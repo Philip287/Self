@@ -237,8 +237,6 @@ X
 0src/Glava11/Klasswork/UniqueWordsAlphabetic.java,b\9\b93822f482533208d825051fd4f0d052cae6490c
 V
 &src/Glava11/Klasswork/UniqueWords.java,9\d\9d4171080fda2e45be1bca4e1d9f49c927fed2c1
-U
-%src/Glava11/Klasswork/Statistics.java,1\b\1b7a15a434f7e1e03d77bf2de8d72d1e61bcad04
 Q
 !src/Glava11/Klasswork/PetMap.java,5\4\544c1b29ce025e60735ac5e1645eac9b2ea4ee02
 O
@@ -273,3 +271,15 @@ T
 $src/Glava11/Klasswork/MapOfList.java,7\e\7ef21190f03bbea3e4791ab2e4ecf2944d956fa7
 Z
 *src/Glava11/HomeTask/Task18/HashMap18.java,6\b\6bdf640107b95694f3083f5d8f83e5bbf24534b5
+V
+&src/Glava11/HomeTask/Task2/Gerbil.java,8\1\81c7edde926f41e4d8de8cef40ed9c65af0cb1d1
+^
+.src/Glava11/HomeTask/Task1/MainClassTask1.java,7\5\7531c848df5cdeae889f4022dcc138ac7f189495
+W
+'src/Glava11/HomeTask/Task22/Task22.java,b\a\ba2900e2ad3cea2c8d57c96464ce0a42a23d8d36
+Z
+*src/Glava11/HomeTask/Task22/KlassSave.java,d\5\d5410d7f2fe6b3244e82798c1ac531f328919236
+U
+%src/Glava11/Klasswork/Statistics.java,1\b\1b7a15a434f7e1e03d77bf2de8d72d1e61bcad04
+W
+'src/Glava11/HomeTask/Task21/Task21.java,6\e\6e5369929133d0acb662adbd5fdf90c1183fbbfa
