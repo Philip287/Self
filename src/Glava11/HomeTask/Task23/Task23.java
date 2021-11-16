@@ -24,7 +24,7 @@ public class Task23 {
                 }
             }
         }
-        System.out.println(rezMap);
+        System.out.println(" Rez = " + rezMap);
         System.out.println();
     }
 
@@ -37,7 +37,7 @@ public class Task23 {
                 Integer freq = m.get(r);
                 m.put(r, freq == null ? 1 : freq + 1);
             }
-
+            System.out.println(m);
             return m;
         }
     }
