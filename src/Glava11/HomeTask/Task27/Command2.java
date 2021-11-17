@@ -16,9 +16,7 @@ public class Command2 extends  Command{
             int h = (random1.nextInt(i + 10));
             queue.offer(new Command("Line"+ h)) ;
         }
-        for (Object c : queue.peek()) {
-
-        }
+        System.out.println(queue.toString());
             System.out.println(queue.peek());
         return queue;
     }

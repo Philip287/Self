@@ -15,7 +15,7 @@ public class Command3 extends Command2{
 
     public static void printQ(Queue queue) {
         Command c = new Command(" ");
-        while (queue.peek() != null);
-        System.out.println(queue.remove());
+        while (queue.peek() != null)
+        c.operation((Command) queue.remove());
     }
 }
