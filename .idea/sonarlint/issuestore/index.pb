@@ -295,3 +295,15 @@ Y
 )src/Glava11/HomeTask/Task27/Command2.java,9\6\96d2b4d6e798af3672c4fb985c0cabb64bf515e6
 X
 (src/Glava11/HomeTask/Task27/Command.java,1\c\1c0366ebb28d62b7eeb011333a422da5505c7a35
+T
+$src/Glava11/Klasswork/QueueDemo.java,e\5\e50cebd5e3508e1439d7179ae7bea9bc19854fb8
+Y
+)src/Glava11/Klasswork/SimpleIterator.java,5\9\592b0e704ef0ce992321c7d5d9f4d7eeb854e326
+]
+-src/Glava11/Klasswork/ArrayIsNotIterable.java,b\c\bc76db1f17c16a5a456235d6d05e3a44768c2d7a
+i
+9src/Glava11/HomeTask/Task28and29/DoublePriorityQueue.java,b\3\b38d08a698c19b56756236220e84daba1c72da95
+_
+/src/Glava11/Klasswork/EnvironmentVariables.java,e\9\e96c38b63364d383e6b98628748017ef60df9023
+\
+,src/Glava11/Klasswork/PriorityQueueDemo.java,d\9\d9b3cf4014efd478456acf14c79ef7c195d26c48
