@@ -9,7 +9,7 @@ import Glava11.Klasswork.PetSequence;
 import java.util.*;
 
 public class NonCollectionsSequnceModern extends PetSequence implements Iterable<Pet> {
-    public Iterator<Pet> iterator() {
+     public Iterator<Pet> iterator() {
         return new Iterator<Pet>() {
             int index = 0;
 
@@ -29,7 +29,7 @@ public class NonCollectionsSequnceModern extends PetSequence implements Iterable
         };
     }
 
-    public Iterable<Pet> reserved() {
+    public Iterable<Pet> reversed() {
         return new Iterable<Pet>() {
             @Override
             public Iterator<Pet> iterator() {
@@ -67,13 +67,12 @@ public class NonCollectionsSequnceModern extends PetSequence implements Iterable
     }
 
     public static void main(String[] args) {
-        NonCollectionsSequnce nc = new NonCollectionsSequnce();
-        List<Pet> list1 = new ArrayList<Pet>(Arrays.asList(new PetCreator().array(40)));
+        NonCollectionsSequnceModern nc = new NonCollectionsSequnceModern();
         InterfaceVsIterator.display(nc.iterator());
-        for (Pet p : list1.randomized())
+        for (Pet p : nc.randomized())
             System.out.print(p + " ");
-        for (Pet p : list1.)
+        System.out.println();
+        for (Pet p : nc.reversed())
             System.out.print(p + " ");
-
     }
 }
