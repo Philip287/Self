@@ -1,0 +1,34 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(æŞá°
+J
+java:S3740"/Provide the parametrized type for this generic.(äÚÕ—úÿÿÿÿ
+Z
+java:S4143"DVerify this is the key that was intended; it was already set before.(½Á©î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Êª²çûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êª²çûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñóù¯ıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñóù¯ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(şì¶ 
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şì¶ 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öÏÅ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÏÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ë±÷
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ë±÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÂ¬¹ûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÂ¬¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÎÍ‘şÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÎÍ‘şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ê­Éÿÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ê­Éÿÿÿÿÿ
+h
+java:S1192	"MDefine a constant instead of duplicating this literal "Ğ¡Ğ¾Ğ±Ğ°ĞºĞ°" 4 times.(Êğ©ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

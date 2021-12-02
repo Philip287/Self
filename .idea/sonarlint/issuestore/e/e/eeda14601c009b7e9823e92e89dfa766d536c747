@@ -1,0 +1,5 @@
+
+j
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ì­åR8ëÁ¦ÀÔ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÐÌûý
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

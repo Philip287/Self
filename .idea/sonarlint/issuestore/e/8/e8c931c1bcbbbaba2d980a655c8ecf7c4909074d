@@ -1,0 +1,43 @@
+
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(Í¬ñ¸
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¼¡î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èè›Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€ÌÉúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÌãÌ˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š³º
+B
+java:S2175",A "List<String>" cannot contain a "Integer".(Š³º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é—ãÆ
+B
+java:S2175",A "List<String>" cannot contain a "Integer".(é—ãÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â®‰Ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ì°îşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”á¦Úıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åïÆÌûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ïüë!
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(À–èí
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ñü™»
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(®ê¾w
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(æÒÑüùÿÿÿÿ
+t
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆç¥ªüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(œ•ªªıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ãÙÒÛ
+n
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ı¬c
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Úèäûÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(ı—
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªß®ûÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¹ ›Æ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(şóô´
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¿ë©‚
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(½‡ã®
+M	java:S106:"9Replace this use of System.out or System.err by a logger.(¸Õ¾Q
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(èÇÓ¶şÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¤µÑ¯ûÿÿÿÿ
+i
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(îÛÎ!
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

@@ -1,0 +1,15 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(›Şßìşÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(äİÏßÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å¸üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ‘›Œüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä–í£
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(»àíöúÿÿÿÿ8‹ÇüĞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Âô¢„şÿÿÿÿ8•½ÄüĞ/
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(äİÏßÿÿÿÿÿ8ÜşÒüĞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å¸üÿÿÿÿ8’‹ÇüĞ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŸ¹úıÿÿÿÿ

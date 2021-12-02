@@ -1,0 +1,15 @@
+
+\
+java:S1854"@Remove this useless assignment to local variable "wordWrappers".(Ñ©?8É¨´±/
+X	java:S125"<This block of commented-out lines of code should be removed.(é’¼8ÒØ½å°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹çƒàûÿÿÿÿ8îÌÅå°/
+M
+java:S1481"1Remove this unused "wordWrappers" local variable.(Ñ©?8É¨´±/
+]	java:S125 "<This block of commented-out lines of code should be removed.(ÄÜŸšøÿÿÿÿ8º½µ±/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ïğï„8·İÀŒ±/
+W	java:S1251"<This block of commented-out lines of code should be removed.(‹·÷>8æ®÷‹±/
+]	java:S1255"<This block of commented-out lines of code should be removed.(÷œ Àüÿÿÿÿ8şÏ•±/
+]	java:S1259"<This block of commented-out lines of code should be removed.(•ŒÅòûÿÿÿÿ8°Ÿ°Œ±/
+J
+java:S1144$"-Remove this unused private "printSet" method.(²œ¼¹8³É©±/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Øø±ıÿÿÿÿ

@@ -1,0 +1,13 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄÿÍ¤
+—
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾µú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ„Ğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¡ÔÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©–á‹úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(íÊ˜ıüÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(áÅÁ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(†ºÂ’
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó—í„üÿÿÿÿ

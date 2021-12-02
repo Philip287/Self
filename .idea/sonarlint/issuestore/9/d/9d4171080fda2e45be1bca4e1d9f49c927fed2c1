@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùî‘õúÿÿÿÿ
+_
+java:S1128	"DRemove this unused import 'java.nio.charset.StandardCharsets.UTF_8'.(öìáëøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ëî°±øÿÿÿÿ

@@ -1,0 +1,21 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Úñªâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãÿ¬œøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Úñªâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ØÕıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õø¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÈ­­úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¿ê¼ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ì¸Ğÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÇŒ—ùÿÿÿÿ
+`
+java:S1192%"JDefine a constant instead of duplicating this literal "Chemistry" 5 times.(ÜìŸç
+f
+java:S1192$"KDefine a constant instead of duplicating this literal "Literature" 5 times.(™Òá¸øÿÿÿÿ
+a
+java:S1192!"LDefine a constant instead of duplicating this literal "Mathematics" 5 times.(å±ºT
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "History" 5 times.(Ş­áşÿÿÿÿ
+c
+java:S1192""HDefine a constant instead of duplicating this literal "Physics" 5 times.(Óş™„ıÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şãür

@@ -1,0 +1,33 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ŠÎôÌ
+E
+java:S3740"/Provide the parametrized type for this generic.(ƒŠÉ§
+J
+java:S3740,"/Provide the parametrized type for this generic.(þŸŠ²ùÿÿÿÿ
+D
+java:S37404"/Provide the parametrized type for this generic.(¬ƒþs
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œû¿Ø
+B
+java:S1125"'Remove the unnecessary boolean literal.(íöç³ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(‘ù˜Œ
+J
+java:S2864+"4Iterate over the "entrySet" instead of the "keySet".(÷Æ‡Š
+O
+java:S28643"4Iterate over the "entrySet" instead of the "keySet".(¹µŽ¥ÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÎýÐòüÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ššæ©øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ýý¹ùÿÿÿÿ
+l
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(üªº‰ýÿÿÿÿ
+f
+java:S1104"PMake word a static final constant or non-public and provide accessors if needed.(‹¢ãÈ
+F
+java:S1444"+Make this "public static count" field final(üªº‰ýÿÿÿÿ
+@
+java:S1444"*Make this "public static word" field final(‹¢ãÈ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷­Ó‘ûÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ëî°±øÿÿÿÿ

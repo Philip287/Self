@@ -1,0 +1,15 @@
+
+8
+java:S2386"Make this member "protected".(¾ñÏşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(š’
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(õ©Û‰
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+java:S2864""4Iterate over the "entrySet" instead of the "keySet".(½„ÿüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ê­¥«üÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ä¹Ÿ8ü™’Ê/
+p
+java:S1104"UMake petPeople a static final constant or non-public and provide accessors if needed.(¾ñÏşÿÿÿÿ
+J
+java:S1444"/Make this "public static petPeople" field final(¾ñÏşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

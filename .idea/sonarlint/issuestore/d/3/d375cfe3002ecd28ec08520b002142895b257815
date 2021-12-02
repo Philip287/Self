@@ -1,0 +1,31 @@
+
+D
+java:S37408"/Provide the parametrized type for this generic.(¸ø™
+M
+java:S18548"8Remove this useless assignment to local variable "cars".(¸ø™
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹œ’ô
+Q	java:S125"<This block of commented-out lines of code should be removed.(˜¦•
+Q	java:S125"<This block of commented-out lines of code should be removed.(·ªÅá
+V	java:S125"<This block of commented-out lines of code should be removed.(Îíë¸üÿÿÿÿ
+Q	java:S1256"<This block of commented-out lines of code should be removed.(‚›º 
+>
+java:S14818")Remove this unused "cars" local variable.(¸ø™
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Åû†Îøÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ç¾¢¾
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Š×óü
+M	java:S106A"9Replace this use of System.out or System.err by a logger.(ßÄÂN
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(şÀ¤´ùÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÚïÈÓ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(”¿¬ÿÿÿÿÿ
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(êä÷i
+f
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(°âÔ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(°âÔ
+l
+java:S3457N"Q%n should be used in place of \n to produce the platform-specific line separator.(¨Ûö¿úÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¨Ûö¿úÿÿÿÿ
+a
+java:S1192."FDefine a constant instead of duplicating this literal "Auris" 6 times.(ß×ÍÃşÿÿÿÿ
+b
+java:S1192."GDefine a constant instead of duplicating this literal "Toyota" 6 times.(ß×ÍÃşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÿµÃÿÿÿÿÿ

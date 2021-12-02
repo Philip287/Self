@@ -1,0 +1,20 @@
+
+?
+java:S2440")Remove this instantiation of "QueueDemo".(Ûð—û
+P
+java:S2209"5Change this instance-reference to a static reference.(†¡í”ùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÖÐ‚
+P
+java:S2209"5Change this instance-reference to a static reference.(†¡í”ùÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¡ö‡
+P
+java:S2209"5Change this instance-reference to a static reference.(†¡í”ùÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(õ²òÜûÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(õ²òÜûÿÿÿÿ
+P
+java:S2209#"5Change this instance-reference to a static reference.(ö˜úÕùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

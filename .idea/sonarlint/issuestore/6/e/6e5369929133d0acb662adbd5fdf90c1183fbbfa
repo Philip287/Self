@@ -1,0 +1,13 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "words".(‰úþ¢þÿÿÿÿ
+E
+java:S1481"*Remove this unused "words" local variable.(‰úþ¢þÿÿÿÿ
+B
+java:S1481",Remove this unused "counter" local variable.(ŒÂëó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃëÆÐ
+]	java:S125"<This block of commented-out lines of code should be removed.(Íîõ–ýÿÿÿÿ8¤Ò½±Î/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Ìî—8¿è½±Î/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ù¡ï‚þÿÿÿÿ8­§¿±Î/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜‡é¦øÿÿÿÿ

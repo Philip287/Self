@@ -1,0 +1,13 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¾ª‹ñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ª‹ñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»°ÏÜøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»°ÏÜøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ª‹ñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»°ÏÜøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å¥Á‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ª‹ñøÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'Glava11.Klasswork.Stack'.(×Ì±Šÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä¥¸½úÿÿÿÿ

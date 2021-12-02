@@ -1,0 +1,13 @@
+
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼½›•
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ã™“°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²È™ûùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼½›•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ží‘÷ùÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(×Ì±Šÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ

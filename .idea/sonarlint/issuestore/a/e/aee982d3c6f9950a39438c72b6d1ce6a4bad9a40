@@ -1,0 +1,14 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".( ÓÅÉùÿÿÿÿ
+G
+java:S2387"*"str1" is the name of a field in "Powder".(åþÒš8°«±â²/
+L
+java:S2387"*"str1" is the name of a field in "Powder".(óÑÆ¶úÿÿÿÿ8ôˆ²â²/
+t
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ïê‹úÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¤„ö˜
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ÁÞ¨–
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(õ‹¾¬ýÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ç¡›Áüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¡ì´üÿÿÿÿ
