@@ -1,0 +1,17 @@
+
+5
+java:S1165"Make this "logger" field final.(Ëâø˜
+5
+java:S1165"Make this "x" field final.(èé‹üûÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(éâ¹Ï
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÿÉà”ÿÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ıÜÌ—ıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ö¼ÚÁùÿÿÿÿ
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ8şÂêĞ×/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ8¼†ëĞ×/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ8½†ëĞ×/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(úßúùÿÿÿÿ8Ó¸ëĞ×/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ8òÑìĞ×/
+9
+java:S2629"$Invoke method(s) only conditionally.(Œ†ŠU
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ ¸

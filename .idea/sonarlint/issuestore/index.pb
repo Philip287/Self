@@ -329,3 +329,31 @@ X
 0src/Glava11/Klasswork/ModifyingArraysAsList.java,8\7\87335985605e8ab55e75cb3d9953be1e404cf8ea
 `
 0src/Glava11/Klasswork/NonCollectionsSequnce.java,7\6\7635e6256214eac3fb47b2bcfbb0ed68adbb594a
+[
++src/Glava12/Klasswork/FullConstructors.java,c\4\c4f75422132e7d37d9dccfba7401cd0c1439d68f
+l
+<src/Glava11/HomeTask/Task32/NonCollectionsSequnceModern.java,d\0\d01bb92526c195dc6ac15e46e252bc34ea87156c
+O
+src/Glava12/HomeTask/Task1.java,d\0\d0e043268ab7b3e7a91619d20d6f392c08bf5033
+O
+src/Glava12/HomeTask/Task2.java,8\8\88d55126f4ccad27dcd14b0e313b141d33e4715d
+W
+'src/Glava12/Klasswork/MyException2.java,f\a\faa7e36af2a249310774d050c923be9fb56e78c5
+]
+-src/Glava12/Klasswork/LoggingExceptions2.java,4\c\4c7cd5c2e38da7b8f66a8ed160da6909fe68559f
+[
++src/Glava12/Klasswork/LoggingException.java,6\e\6e7ed7874f07e01a0bad445f5dc853dd4467512a
+O
+src/Glava12/HomeTask/Task5.java,5\0\5036100b6a15680199ec39df83d00b23c8240ecd
+[
++src/Glava12/Klasswork/SimpleExceptions.java,1\c\1ce5dd591ed7c97bdfb318de3551ad7163639bee
+I
+.idea/dictionaries/hp.xml,9\6\964acd220cdddb14c3106584f442f882337e751e
+S
+#src/Glava12/HomeTask/Task3and7.java,4\2\428388c4f000c7b05181860bc91b15488b30c498
+O
+src/Glava12/HomeTask/Task6.java,e\8\e8fff1de67857aff48c07094ed32f8484efa3fee
+X
+(src/Glava12/HomeTask/Task4Exception.java,9\4\9485e6062b49e6365d4556bceca80b967d357fd2
+O
+src/Glava12/HomeTask/Task9.java,0\8\080315f9c3b0ddd745b3186482ba9b1caa0e2bb4

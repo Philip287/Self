@@ -1,0 +1,13 @@
+
+5
+java:S1165"Make this "x" field final.(ĞÇñüÿÿÿÿ
+M
+java:S1161":Add the "@Override" annotation above this method signature(‡+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ÚËÁ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ø“éæøÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(§çÀÇ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(§ı¥Ëøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™
