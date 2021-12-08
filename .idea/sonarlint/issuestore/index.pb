@@ -357,3 +357,7 @@ X
 (src/Glava12/HomeTask/Task4Exception.java,9\4\9485e6062b49e6365d4556bceca80b967d357fd2
 O
 src/Glava12/HomeTask/Task9.java,0\8\080315f9c3b0ddd745b3186482ba9b1caa0e2bb4
+T
+$.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648

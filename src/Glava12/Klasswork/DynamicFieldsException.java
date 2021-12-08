@@ -86,6 +86,23 @@ class DynamicFields {
     }
 
     public static void main(String[] args) {
+        DynamicFields df = new DynamicFields(3);
+        System.out.println(df);
+        try{
+            df.setField("d", "Znachenie d");
+            df.setField("number", 47);
+            df.setField("number 2", 48);
+            System.out.println(df);
+            df.setField("d", "new D");
+            df.setField("number 3", 11);
+            System.out.println("df: " + df);
+            System.out.println("df.getField(\"d\") : " + df.getFeild("d"));
+            Object field = df.setField("d", null); //Exception
+        }catch (NoSuchFieldException e){
+            e.printStackTrace(System.out);
+        } catch (DynamicFieldsException e){
+            e.printStackTrace(System.out);
+        }
 
     }
 }
