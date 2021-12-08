@@ -1,13 +1,13 @@
 package Glava12.HomeTask;
 
-public class Task9 extends NullPointerException {
+public class Task9and13 extends NullPointerException {
     int x;
 
-    public Task9() {
+    public Task9and13() {
 
     }
 
-    public Task9(String msg, int x) {
+    public Task9and13(String msg, int x) {
         super(msg);
         this.x = x;
     }
@@ -30,7 +30,7 @@ class ExceptionNull extends IndexOutOfBoundsException {
 
 class MainClass1 {
     public static void f() {
-        throw new Task9("New msg", 30);
+        throw new Task9and13("New msg", 30);
     }
     public static void g(){
         throw new ExceptionNull();
@@ -49,6 +49,8 @@ class MainClass1 {
             e.printStackTrace(System.out);
             e.getMessage();
             e.getLocalizedMessage();
+        } finally {
+            System.out.println("Finally");
         }
 
         try {
@@ -57,7 +59,9 @@ class MainClass1 {
             System.out.println("Catch 1");
         } catch (Exception e) {
             e.printStackTrace(System.out);
-        }
+        }  finally {
+        System.out.println("Finally");
+    }
 
         try {
             h();
@@ -65,6 +69,8 @@ class MainClass1 {
             System.out.println("Catch 1");
         } catch (Exception e) {
             e.printStackTrace(System.out);
+        } finally {
+            System.out.println("Finally");
         }
     }
 }
