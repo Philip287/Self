@@ -37,7 +37,11 @@ class LostMessage {
             try {
                 lm.f();
             } finally {
-                lm.dispose();
+                try{
+                    lm.dispose();
+                }finally {
+                    lm.g();
+                }
             }
         } catch (Exception e) {
             System.out.println(e);

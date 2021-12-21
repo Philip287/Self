@@ -1,7 +1,7 @@
 package Glava12.Klasswork;
 
-public class Switch {
-    private boolean state = false;
+public class Switch1 {
+    /*  private boolean state = false;
 
     public boolean read() {
         return state;
@@ -29,7 +29,7 @@ class OnOffException2 extends Exception {
 }
 
 class OnOffSwitch {
-    private static Switch sw = new Switch();
+    private static Switch1 sw = new Switch1();
 
     public static void f() throws OnOffException1, OnOffException2 {
 
@@ -46,10 +46,12 @@ class OnOffSwitch {
         } catch (OnOffException2 e) {
             System.out.println("OnOffException2");
             sw.off();
+
         } finally {
             System.out.println("Finally");
+
         }
-    }
+    } */
 }
 
 
