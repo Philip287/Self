@@ -17,6 +17,12 @@ class StormException extends Exception {}
 class RainedOut extends StormException {}
 class PopFoul extends Foul {}
 
+class UmpireException extends Exception{
+    public static void move() throws UmpireException{
+        throw new UmpireException();
+    }
+}
+
 interface Storm {
     void event() throws RainedOut;
     void rainHard() throws RainedOut;
@@ -69,6 +75,13 @@ class StormyInning extends Inning implements Storm {
             System.out.println("Rained out");
         } catch(BaseballException e) {
             System.out.println("Generic baseball exception");
+        }
+
+        try {
+            UmpireException ue = new UmpireException();
+            ue.move();
+        }catch (UmpireException e){
+            e.printStackTrace(System.out);
         }
     }
 }
