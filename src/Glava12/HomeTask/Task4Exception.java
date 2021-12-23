@@ -1,6 +1,6 @@
 package Glava12.HomeTask;
 
-public class Task4Exception extends IndexOutOfBoundsException {
+public class Task4Exception extends RuntimeException {
     String s;
 
     /**
@@ -32,10 +32,6 @@ public class Task4Exception extends IndexOutOfBoundsException {
 
 class Runner {
     public static void main(String[] args) {
-        try {
             throw new Task4Exception("Error 1");
-        } catch (Task4Exception e) {
-            e.printStackTrace(System.out);
-        }
     }
 }

@@ -10,7 +10,9 @@ public class Task3and7 {
         try {
             t.f();
         } catch (ArrayIndexOutOfBoundsException e){
-            e.printStackTrace(System.out);
+           // e.printStackTrace(System.out);
+            throw new RuntimeException(e);
+
         }
     }
 }

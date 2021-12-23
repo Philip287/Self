@@ -1,6 +1,6 @@
 package Glava12.Klasswork;
 
-class BaseballException extends Exception {}
+class BaseballException extends RuntimeException {}
 class Foul extends BaseballException {}
 class Strike extends BaseballException {}
 
@@ -13,11 +13,11 @@ abstract class Inning {
     public void walk() {} // Throws no checked exceptions
 }
 
-class StormException extends Exception {}
+class StormException extends RuntimeException {}
 class RainedOut extends StormException {}
 class PopFoul extends Foul {}
 
-class UmpireException extends Exception{
+class UmpireException extends RuntimeException{
     public static void move() throws UmpireException{
         throw new UmpireException();
     }
@@ -37,37 +37,37 @@ class StormyInning extends Inning implements Storm {
     public StormyInning(String s)
             throws BaseballException {}
     // Regular methods must conform to base class:
-    //- void walk() throws PopFoul {} //Compile error
+   // void walk() throws PopFoul {} //Compile error
     // Interface CANNOT add exceptions to existing
     // methods from the base class:
-    //- public void event() throws RainedOut {}
+     public void event() throws RainedOut {}
     // If the method doesn't already exist in the
     // base class, the exception is OK:
     @Override public void rainHard() throws RainedOut {}
     // You can choose to not throw any exceptions,
     // even if the base version does:
-    @Override public void event() {}
+   // @Override public void event() {}
     // Overridden methods can throw inherited exceptions:
     @Override public void atBat() throws PopFoul {}
     public static void main(String[] args) {
-        try {
+    //    try {
             StormyInning si = new StormyInning();
             si.atBat();
-        } catch(PopFoul e) {
-            System.out.println("Pop foul");
-        } catch(RainedOut e) {
-            System.out.println("Rained out");
-        } catch(BaseballException e) {
-            System.out.println("Generic baseball exception");
-        }
+    //    } catch(PopFoul e) {
+     //       System.out.println("Pop foul");
+     //   } catch(RainedOut e) {
+      //      System.out.println("Rained out");
+     //   } catch(BaseballException e) {
+      //      System.out.println("Generic baseball exception");
+     //   }
         // Strike not thrown in derived version.
-        try {
+       // try {
             // What happens if you upcast?
             Inning i = new StormyInning();
             i.atBat();
             // You must catch the exceptions from the
             // base-class version of the method:
-        } catch(Strike e) {
+      /*  } catch(Strike e) {
             System.out.println("Strike");
         } catch(Foul e) {
             System.out.println("Foul");
@@ -75,13 +75,13 @@ class StormyInning extends Inning implements Storm {
             System.out.println("Rained out");
         } catch(BaseballException e) {
             System.out.println("Generic baseball exception");
-        }
+        }*/
 
-        try {
+     //   try {
             UmpireException ue = new UmpireException();
             ue.move();
-        }catch (UmpireException e){
-            e.printStackTrace(System.out);
-        }
+      //  }catch (UmpireException e){
+       //     e.printStackTrace(System.out);
+     //   }
     }
 }

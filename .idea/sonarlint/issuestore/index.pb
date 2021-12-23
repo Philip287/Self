@@ -349,12 +349,8 @@ O
 +src/Glava12/Klasswork/SimpleExceptions.java,1\c\1ce5dd591ed7c97bdfb318de3551ad7163639bee
 I
 .idea/dictionaries/hp.xml,9\6\964acd220cdddb14c3106584f442f882337e751e
-S
-#src/Glava12/HomeTask/Task3and7.java,4\2\428388c4f000c7b05181860bc91b15488b30c498
 O
 src/Glava12/HomeTask/Task6.java,e\8\e8fff1de67857aff48c07094ed32f8484efa3fee
-X
-(src/Glava12/HomeTask/Task4Exception.java,9\4\9485e6062b49e6365d4556bceca80b967d357fd2
 U
 %src/Glava12/HomeTask/Task10and11.java,9\f\9fd145837ac7c2969893cf3461ce4c281dbd4724
 V
@@ -371,3 +367,13 @@ T
 $src/Glava12/HomeTask/Task9and13.java,5\7\5723b9299d45a025131ad0edbfebe4db5d541ec0
 \
 ,src/Glava12/Klasswork/ExceptionSilencer.java,5\4\547be5155f1bde1640639a01bcfac32d59f98889
+R
+"src/Glava12/Klasswork/Switch1.java,b\6\b6094746528a4fa062af34f0c671cad53f3abc8a
+a
+1src/Glava12/Klasswork/VeryImportantException.java,9\a\9a740577554af21eab66e98c48002d1871fd81f9
+W
+'src/Glava12/Klasswork/WithFinally1.java,8\f\8f95f2a9df0d83e14615e8f43c4ae947cea7157e
+P
+ src/Glava12/HomeTask/Task21.java,f\f\ff1584e352fa706b27e3ca1754fee73683a759a6
+P
+ src/Glava12/HomeTask/Task22.java,c\4\c41734e399ff4c7d22223c8edb916e72ebeaed77
