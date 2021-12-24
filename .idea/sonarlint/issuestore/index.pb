@@ -377,3 +377,29 @@ P
  src/Glava12/HomeTask/Task21.java,f\f\ff1584e352fa706b27e3ca1754fee73683a759a6
 P
  src/Glava12/HomeTask/Task22.java,c\4\c41734e399ff4c7d22223c8edb916e72ebeaed77
+H
+src/Glava12/Program.java,5\c\5cdab5f83b9f22ab20b0cce794e0a769d86ef226
+P
+ src/Glava12/HomeTask/Task23.java,2\d\2d35a649441a2d6831837da5ff171cd38ff5af19
+P
+ src/Glava12/HomeTask/Task25.java,7\a\7aeae023a2293811a01c4b6a735295e439050bf2
+P
+ src/Glava12/Klasswork/Human.java,5\f\5fc67777790cbad197f2e00ddd033ea1eea8fbdf
+J
+src/Glava13/Immutable.java,2\2\22de8a737e99e49878f590179877a7427f38708b
+N
+src/Glava13/Concatenation.java,8\2\82dcec617e214c943b1c1be6f51fcfae9fa51927
+U
+%src/Glava13/WhitherStringBuilder.java,0\a\0ad5e0c0f74c421b2ce72cb4876c9ac0539a702e
+X
+(src/Glava12/Klasswork/MainException.java,b\5\b56a3b1ab634ef66b41049c800de54eacf88300e
+Z
+*src/Glava12/Klasswork/TurnOffChecking.java,8\e\8ea2e10b72d4f79cdc156cb883bfbbe9ad91eb5c
+S
+#src/Glava12/HomeTask/Task3and7.java,4\2\428388c4f000c7b05181860bc91b15488b30c498
+X
+(src/Glava12/HomeTask/Task4Exception.java,9\4\9485e6062b49e6365d4556bceca80b967d357fd2
+W
+'src/Glava12/Klasswork/StormyInning.java,3\3\33e00f6a541b5aa10a796eeb70ad27b9802fa95a
+S
+#src/Glava13/UsingStringBuilder.java,3\c\3c4305e57f7ac0fa8a7412b3d0bf516b7b294be2
