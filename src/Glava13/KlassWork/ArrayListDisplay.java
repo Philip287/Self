@@ -1,4 +1,4 @@
-package Glava13;
+package Glava13.KlassWork;
 
 import Glava15.Coffe.Coffee;
 import Glava15.Coffe.CoffeeSupplier;

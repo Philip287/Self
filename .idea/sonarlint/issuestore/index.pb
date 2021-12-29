@@ -403,3 +403,17 @@ W
 'src/Glava12/Klasswork/StormyInning.java,3\3\33e00f6a541b5aa10a796eeb70ad27b9802fa95a
 S
 #src/Glava13/UsingStringBuilder.java,3\c\3c4305e57f7ac0fa8a7412b3d0bf516b7b294be2
+P
+ src/Glava15/Coffe/Americano.java,8\a\8a9a26ec6d64c630298c297cfee50f1a6cc4c0dc
+L
+src/Glava15/Coffe/Breve.java,e\c\ecdc6119b86802b9c30eb34b2442184c8c4d53f4
+Q
+!src/Glava15/Coffe/Cappuccino.java,6\3\63cf0fd5a4d7128a96f81c8a13dd316cadbf1743
+M
+src/Glava15/Coffe/Coffee.java,4\1\41bdd8e02f075f3a49bb2b3d0e9813ce8af94d5a
+U
+%src/Glava15/Coffe/CoffeeSupplier.java,4\d\4d910076029592dfa51ef8ef22be9557952ac215
+L
+src/Glava15/Coffe/Latte.java,9\c\9cdb493e66ea6a48d134d7bd34705873791ff7bd
+L
+src/Glava15/Coffe/Mocha.java,a\b\abd05a282f548d0d181d34c1bd210fccf9aedc11

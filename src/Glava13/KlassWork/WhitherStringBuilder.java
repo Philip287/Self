@@ -1,4 +1,4 @@
-package Glava13;
+package Glava13.KlassWork;
 
 public class WhitherStringBuilder {
     public String implicit(String[] fields) {

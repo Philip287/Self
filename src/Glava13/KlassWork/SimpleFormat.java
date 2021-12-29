@@ -1,4 +1,4 @@
-package Glava13;
+package Glava13.KlassWork;
 
 public class SimpleFormat {
     public static void main(String[] args) {

@@ -1,54 +1,24 @@
 package Test;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 public class Test {
 
-    public void test() {
-        Date d = new Date();
-        SimpleDateFormat format1;
-        SimpleDateFormat format2;
-        format1 = new SimpleDateFormat(
-                "dd.MM.yyyy hh:mm");
-        format2 = new SimpleDateFormat(
-                "День dd Месяц MM Год yyyy Время hh:mm");
-        System.out.println(
-                format1.format(d)  // 25.02.2013 09:03
-        );
-        System.out.println(
-                format2.format(d)
-                // День 25 Месяц 02 Год 2013 Время 09:03
-        );
+    static void method() throws IllegalAccessException
+    {
+        try {
+            System.out.println("inside method");
+            throw new IllegalAccessException (
+                    "Exception in method");
+        } catch (NullPointerException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+    public static void main(String args[])
+    {
+        try {
+            method();
+        } catch(IllegalAccessException  e) {
+            System.out.println("Catch inside main : " +
+                    e.getMessage());
+        }
     }
 }
-/*
-Методы класса Calendar
-************************************************************************************************************************
-*           Наименование	             *              Описание                                                       *
-************************************************************************************************************************
-*abstract void add(int field, int value) * добавляет value к компоненту времени или даты, указанному в параметре field *
-*                                        * (например, Calendar.HOUR).Чтобы отнять, используйте отрицательное значение. *
-************************************************************************************************************************
-*boolean after(Object calendar)	         * возвращает значение true, если вызывающий объект класса Calendar содержит   *
-*                                        * более позднюю дату, чем calendar.                                           *
-************************************************************************************************************************
-*boolean before(Object calendar)	     * возвращает значение true, если вызывающий объект класса Calendar содержит   *
-*                                        * более раннюю дату, чем calendar.                                            *
-************************************************************************************************************************
-*final void clear()	                     *обнуляет все компоненты времени в вызывающем объекте.                        *
-************************************************************************************************************************
-*final void clear(int field)	         *обнуляет компонент, указанный в параметре field                              *
-************************************************************************************************************************
-*int get(int field)	                     *возвращает значение одного компонента, например, Calendar.MINUTE
-*synchronized static Locale[]            *возвращает массив объектов класса Locale, содержащий региональные данные
-getAvailableLocales()	                 *
-*synchronized static Calendar getInstance()	возвращает объект класса Calendar для региональных данных и часового пояса по умолчанию. Есть и другие перегруженные версии.
-*final Date getTime()	возвращает объекта класса Date, содержащий время, эквивалентное вызывающему объекту.
-*TimeZone getTimeZone()	возвращает часовой пояс
-*final boolean isSet(int field)	возвращает значение true, если указанный компонент времени указан.
-*void set(int field, int value)	устанавливает компоненты даты или времени. Есть перегруженные версии.
-*final void setTime(Date date)	устанавливает различные компоненты даты и времени через объект класса Date.
-*void setTimeZone(TimeZone timezone)	устанавливает часовой пояс через объект класса TimeZone.
-************************************************************************************************************************
- */
