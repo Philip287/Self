@@ -385,12 +385,6 @@ P
  src/Glava12/HomeTask/Task25.java,7\a\7aeae023a2293811a01c4b6a735295e439050bf2
 P
  src/Glava12/Klasswork/Human.java,5\f\5fc67777790cbad197f2e00ddd033ea1eea8fbdf
-J
-src/Glava13/Immutable.java,2\2\22de8a737e99e49878f590179877a7427f38708b
-N
-src/Glava13/Concatenation.java,8\2\82dcec617e214c943b1c1be6f51fcfae9fa51927
-U
-%src/Glava13/WhitherStringBuilder.java,0\a\0ad5e0c0f74c421b2ce72cb4876c9ac0539a702e
 X
 (src/Glava12/Klasswork/MainException.java,b\5\b56a3b1ab634ef66b41049c800de54eacf88300e
 Z
@@ -401,8 +395,6 @@ X
 (src/Glava12/HomeTask/Task4Exception.java,9\4\9485e6062b49e6365d4556bceca80b967d357fd2
 W
 'src/Glava12/Klasswork/StormyInning.java,3\3\33e00f6a541b5aa10a796eeb70ad27b9802fa95a
-S
-#src/Glava13/UsingStringBuilder.java,3\c\3c4305e57f7ac0fa8a7412b3d0bf516b7b294be2
 P
  src/Glava15/Coffe/Americano.java,8\a\8a9a26ec6d64c630298c297cfee50f1a6cc4c0dc
 L
@@ -417,3 +409,21 @@ L
 src/Glava15/Coffe/Latte.java,9\c\9cdb493e66ea6a48d134d7bd34705873791ff7bd
 L
 src/Glava15/Coffe/Mocha.java,a\b\abd05a282f548d0d181d34c1bd210fccf9aedc11
+[
++src/Glava13/KlassWork/ArrayListDisplay.java,9\a\9ad1cde662ac147f357032ddedd6f077812d965b
+X
+(src/Glava13/KlassWork/Concatenation.java,2\8\28b568b119b5b4931a61f3ff284e66cb41a750de
+T
+$src/Glava13/KlassWork/Immutable.java,5\9\59a4b5cb6f57f842cd3b6a08706e92d702fb8014
+\
+,src/Glava13/KlassWork/InfiniteRecursion.java,f\f\ffd0fbda63143cfc992b94781b1494fbdecd0009
+W
+'src/Glava13/KlassWork/SimpleFormat.java,d\9\d93fa29cdcafc8d9b520113e2fcf60b5e0180c36
+B
+src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
+Q
+!src/Glava13/KlassWork/Turtle.java,d\b\dba2d79db341bc415f2a01be2ee7437e5d997182
+]
+-src/Glava13/KlassWork/UsingStringBuilder.java,b\6\b6834fbabe3a96912cbc8cd3f8657cb43a78c942
+_
+/src/Glava13/KlassWork/WhitherStringBuilder.java,2\9\29089cb5c591a498ed3d41b25f809fa2b3386015
