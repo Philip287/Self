@@ -419,8 +419,6 @@ $src/Glava13/KlassWork/Immutable.java,5\9\59a4b5cb6f57f842cd3b6a08706e92d702fb8
 ,src/Glava13/KlassWork/InfiniteRecursion.java,f\f\ffd0fbda63143cfc992b94781b1494fbdecd0009
 W
 'src/Glava13/KlassWork/SimpleFormat.java,d\9\d93fa29cdcafc8d9b520113e2fcf60b5e0180c36
-B
-src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
 Q
 !src/Glava13/KlassWork/Turtle.java,d\b\dba2d79db341bc415f2a01be2ee7437e5d997182
 ]

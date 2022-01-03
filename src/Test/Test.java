@@ -1,24 +1,18 @@
 package Test;
 
-public class Test {
+public class Test {}
 
-    static void method() throws IllegalAccessException
-    {
-        try {
-            System.out.println("inside method");
-            throw new IllegalAccessException (
-                    "Exception in method");
-        } catch (NullPointerException e) {
-            System.out.println(e.getMessage());
+    interface SomeInterface {
+        String COMPANY = "Рога и копыта";
+
+        void methodName();
+    }
+
+    class SomeClass implements SomeInterface {
+
+        @Override
+        public void methodName() {
+            System.out.println("SomeClass.methodName() ...");
         }
     }
-    public static void main(String args[])
-    {
-        try {
-            method();
-        } catch(IllegalAccessException  e) {
-            System.out.println("Catch inside main : " +
-                    e.getMessage());
-        }
-    }
-}
+
