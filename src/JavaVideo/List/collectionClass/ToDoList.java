@@ -10,7 +10,7 @@ public class ToDoList {
     private LinkedList<String> toDoList = new LinkedList<>();
 
     public void addToList(String Task) {
-     //   toDoList.addFirst(Task);
+     //   toDoList.addFirst(Task9);
         addInAlfaBeticalOrder(Task);
     }
     private boolean addInAlfaBeticalOrder(String task){
@@ -18,7 +18,7 @@ public class ToDoList {
         while (ListIter.hasNext()){
             int compared = ListIter.next().compareTo(task);
             if(compared == 0){
-                System.out.println("Task already exist in the list");
+                System.out.println("Task9 already exist in the list");
                 return true;
             } else if(compared > 0){
                 ListIter.previous();// возвращает каретку на одну позицию назад

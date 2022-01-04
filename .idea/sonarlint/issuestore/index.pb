@@ -271,8 +271,6 @@ O
 src/JavaVideo/List/set/Car.java,4\f\4f10e590e5df3657cff52e7b268712ebeba88675
 U
 %src/JavaVideo/List/set/SetRunner.java,d\3\d375cfe3002ecd28ec08520b002142895b257815
-`
-0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
 ]
 -src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
 \
@@ -417,11 +415,23 @@ T
 $src/Glava13/KlassWork/Immutable.java,5\9\59a4b5cb6f57f842cd3b6a08706e92d702fb8014
 \
 ,src/Glava13/KlassWork/InfiniteRecursion.java,f\f\ffd0fbda63143cfc992b94781b1494fbdecd0009
-W
-'src/Glava13/KlassWork/SimpleFormat.java,d\9\d93fa29cdcafc8d9b520113e2fcf60b5e0180c36
 Q
 !src/Glava13/KlassWork/Turtle.java,d\b\dba2d79db341bc415f2a01be2ee7437e5d997182
 ]
 -src/Glava13/KlassWork/UsingStringBuilder.java,b\6\b6834fbabe3a96912cbc8cd3f8657cb43a78c942
 _
 /src/Glava13/KlassWork/WhitherStringBuilder.java,2\9\29089cb5c591a498ed3d41b25f809fa2b3386015
+U
+%src/Glava13/KlassWork/Conversion.java,2\1\21eb6fd63c2dbbce42a4bde9d4adfe5d54edec3c
+B
+src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
+N
+src/Glava13/KlassWork/Hex.java,d\c\dcbac598930a061ec9c35cd3dc13c6481d582727
+\
+,src/Glava13/KlassWork/DatabaseException.java,3\f\3f6927c9da5c8b34d358857110a065e8e026e31d
+W
+'src/Glava13/KlassWork/IntegerMatch.java,7\f\7ffbfe97e8f49985872a770bfae8358b5fe6b74d
+O
+src/Glava13/HomeTask/Task6.java,4\2\424cdbc75d6a2000e69f7cce353512990fd3f3a3
+R
+"src/Glava13/KlassWork/Receipt.java,e\5\e5e0c2c5fb07efe97035a43602048e16ead8740b
