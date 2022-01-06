@@ -16,19 +16,18 @@ public class Task7 {
             lst.add(str1);
         }
         String regex = "\\b([A-Z]\\w+.)";
+        String regex2 = ("\\b[a-z]\\w+!+");
         Pattern pattern = Pattern.compile(regex);
+        Pattern pattern2 = Pattern.compile(regex2);
         for (String f : lst) {
             Matcher matcher = pattern.matcher(f);
             System.out.println(f);
-            System.out.println(matcher.matches());
-            System.out.println(f.matches("\\b([A-Z]\\w+.)"));
             while (matcher.find())
-                System.out.println("Found match at: " + matcher.start() + " to " + matcher.end());
-            System.out.println(f.matches("\\b[a-z]\\w+!+"));
+                System.out.println("Found match " + matcher.group() +  "at: " + matcher.start() + " to " + (matcher.end()-1));
+            Matcher matcher2 = pattern2.matcher(f);
             System.out.println();
+            while (matcher2.find())
+                System.out.println("Found match2 " + matcher2.group() +  "at: " + matcher2.start() + " to " + (matcher2.end() -1));
         }
-        Matcher matcher2 = pattern.matcher(s);
-        System.out.println(matcher2.matches());
-
     }
 }

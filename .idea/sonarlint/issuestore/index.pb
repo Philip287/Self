@@ -237,8 +237,6 @@ Z
 *src/Glava11/HomeTask/Task18/HashMap18.java,6\b\6bdf640107b95694f3083f5d8f83e5bbf24534b5
 V
 &src/Glava11/HomeTask/Task2/Gerbil.java,8\1\81c7edde926f41e4d8de8cef40ed9c65af0cb1d1
-^
-.src/Glava11/HomeTask/Task1/MainClassTask1.java,7\5\7531c848df5cdeae889f4022dcc138ac7f189495
 W
 'src/Glava11/HomeTask/Task22/Task22.java,b\a\ba2900e2ad3cea2c8d57c96464ce0a42a23d8d36
 Z
@@ -435,3 +433,19 @@ O
 src/Glava13/HomeTask/Task6.java,4\2\424cdbc75d6a2000e69f7cce353512990fd3f3a3
 R
 "src/Glava13/KlassWork/Receipt.java,e\5\e5e0c2c5fb07efe97035a43602048e16ead8740b
+`
+0src/JavaVideo/List/collectionClass/ToDoList.java,7\c\7ce6c4fcf4a12e75ffd6d1a266e081770ec406f2
+O
+src/Glava13/HomeTask/Task8.java,8\b\8bc37cc9a58ee7f90a82efb5e3d1cd9c42a516b6
+O
+src/Glava13/HomeTask/Task9.java,4\8\4846e03a97df9d9614084ae0ceb2f7f8d2681aaf
+`
+0src/Glava13/KlassWork/TestRegularExpression.java,d\b\db24dea63e0ca63fc5f7c1db83a4913242c6f5f8
+T
+$src/Glava13/KlassWork/Splitting.java,0\6\064896a4b3ebd5f87ba6ce64ba00541ddfed6955
+W
+'src/Glava13/KlassWork/SimpleFormat.java,d\9\d93fa29cdcafc8d9b520113e2fcf60b5e0180c36
+T
+$src/Glava13/KlassWork/Replacing.java,6\7\67461311b30b8827417ea3a3e4be4e9296ec3e32
+^
+.src/Glava11/HomeTask/Task1/MainClassTask1.java,7\5\7531c848df5cdeae889f4022dcc138ac7f189495
