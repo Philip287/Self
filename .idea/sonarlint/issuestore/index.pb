@@ -215,8 +215,6 @@ W
 -src/Glava11/Klasswork/SortedSetOfInteger.java,7\7\77cc130e8fa9c883fe870a7bd4a091e121838cd9
 Q
 !src/Glava11/Klasswork/PetMap.java,5\4\544c1b29ce025e60735ac5e1645eac9b2ea4ee02
-c
-3src/JavaVideo/List/treemap/AverageStudentGrade.java,4\d\4de57119dce4dda8476923ca6c83571295aca6a2
 Z
 *src/Glava11/HomeTask/Task15/StackHome.java,f\b\fb099f5f27880d253e569311d3353f8d8fef4ea6
 e
@@ -269,10 +267,6 @@ O
 src/JavaVideo/List/set/Car.java,4\f\4f10e590e5df3657cff52e7b268712ebeba88675
 U
 %src/JavaVideo/List/set/SetRunner.java,d\3\d375cfe3002ecd28ec08520b002142895b257815
-]
--src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
-\
-,src/JavaVideo/List/treemap/SubjectGrade.java,2\a\2ab1cbb234041ea45de14e473cae137da962c010
 W
 'src/Glava11/HomeTask/Task23/Task23.java,9\b\9b1c92c6db1a1bec8459fb7a3fad6aec72c1a1c8
 V
@@ -421,8 +415,6 @@ _
 /src/Glava13/KlassWork/WhitherStringBuilder.java,2\9\29089cb5c591a498ed3d41b25f809fa2b3386015
 U
 %src/Glava13/KlassWork/Conversion.java,2\1\21eb6fd63c2dbbce42a4bde9d4adfe5d54edec3c
-B
-src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
 N
 src/Glava13/KlassWork/Hex.java,d\c\dcbac598930a061ec9c35cd3dc13c6481d582727
 \
@@ -449,3 +441,21 @@ T
 $src/Glava13/KlassWork/Replacing.java,6\7\67461311b30b8827417ea3a3e4be4e9296ec3e32
 ^
 .src/Glava11/HomeTask/Task1/MainClassTask1.java,7\5\7531c848df5cdeae889f4022dcc138ac7f189495
+O
+src/Glava13/HomeTask/Task7.java,8\4\84e5a64ea2efc3197bb0de211768cfa45344cd8d
+P
+ src/Glava13/HomeTask/Task10.java,b\1\b191c5d691466c505088fc110fe9473d6df231b4
+P
+ src/Glava13/HomeTask/Task11.java,9\4\94650b30817215ef93beb8d5de9badf3f19762cc
+R
+"src/Glava13/KlassWork/Finding.java,b\1\b1d762dcd81d4eca934ae56f13aede459cd6d9a2
+Q
+!src/Glava13/KlassWork/Groups.java,c\8\c88e64519b970eeeb0fcecd9cb9d084582d1029c
+S
+#src/Glava13/KlassWork/StartEnd.java,a\7\a7716eec990a48bf0a04c10c74afabc528417c7f
+P
+ src/Glava13/HomeTask/Task13.java,7\7\77cc3594214c55e2884fae087419287dd96fd5ee
+P
+ src/Glava13/HomeTask/Task12.java,8\f\8fd7d957631d39d679113ef577a1d1907594bb59
+=
+untitled5.iml,4\d\4d1d7eeeed7cd8c0e544ee90a0bac0c559450909
