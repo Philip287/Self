@@ -459,3 +459,21 @@ P
  src/Glava13/HomeTask/Task12.java,8\f\8fd7d957631d39d679113ef577a1d1907594bb59
 =
 untitled5.iml,4\d\4d1d7eeeed7cd8c0e544ee90a0bac0c559450909
+Q
+!src/Glava13/KlassWork/ReFlag.java,8\8\884d79aa4ba725c1b5c26bee6533575a36c0dbc3
+T
+$src/Glava13/KlassWork/Resetting.java,4\d\4da63d1f4ec92559f5dc7a73ac9d7a76dcef8e7e
+T
+$src/Glava13/KlassWork/SplitDemo.java,5\b\5ba2a48ac4b65258ab5362e8f9afa270da9f1713
+P
+ src/Glava13/HomeTask/Task14.java,9\c\9c9714a95df6de360da6b812a8ecf9682bf8c8eb
+B
+src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
+Z
+*src/Glava13/KlassWork/TheReplacements.java,6\f\6f45b545961c58d9c41ff32eeb21094b6685b7d4
+H
+src/TheReplacements.java,2\9\2911dadad63f729cb28b2039da8e441d2066d741
+c
+3src/JavaVideo/List/treemap/AverageStudentGrade.java,4\d\4de57119dce4dda8476923ca6c83571295aca6a2
+]
+-src/JavaVideo/List/treemap/TreeMapRunner.java,e\1\e11d090b01aa58a8f6103deac2f6bfbb443d6d7a
