@@ -49,7 +49,7 @@ public class FileUtils {
         Path path1 = FileSystems.getDefault().getPath(fileName);
         Path path2 = Paths.get(System.getProperty("user.dir", fileName));
 
-        // FileSystem fileSystem = path.getFileSystem();
+        FileSystem fileSystem = path.getFileSystem();
 
         System.out.println("File name - " + path.getFileName());
         Path absolutePath = path.toAbsolutePath();
@@ -75,6 +75,8 @@ public class FileUtils {
             Files.createDirectories(filesPath);
         }
         Files.copy(absolutePath,filesPath.resolve(path), StandardCopyOption.REPLACE_EXISTING);
+        Files.delete(filesPath.resolve(path));
+        Files.delete(filesPath);
 
     }
 }

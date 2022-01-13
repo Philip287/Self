@@ -4,9 +4,17 @@ import JavaVideo.List.treemap.AverageStudentGrade;
 import JavaVideo.List.treemap.SubjectGrade;
 
 import java.io.*;
+import java.nio.ByteBuffer;
+import java.nio.channels.FileChannel;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+
+import static java.nio.file.StandardOpenOption.APPEND;
+import static java.nio.file.StandardOpenOption.CREATE;
 
 public class Writer {
     public void writeWithFormatter() throws FileNotFoundException {
@@ -40,15 +48,48 @@ public class Writer {
         }
     }
 
-    public void writeObject(List<Student> students, String fileName){
-        try(ObjectOutputStream out = new ObjectOutputStream(Files.newOutputStream(Paths.get(fileName)))) {
-            for (Student student : students){
+    public void writeObject(List<Student> students, String fileName) {
+        try (ObjectOutputStream out = new ObjectOutputStream(Files.newOutputStream(Paths.get(fileName)))) {
+            for (Student student : students) {
                 out.writeObject(student);
             }
-            out.writeObject(new Student("", -1.00f,null));
-        }catch (IOException e){
+            out.writeObject(new Student("", -1.00f, null));
+        } catch (IOException e) {
             System.out.println("File can't be opened. Program terminate.");
             e.printStackTrace(System.out);
         }
+    }
+
+    public void nioWriteWithBuffer(String fileName) throws IOException {
+        Path paths = Paths.get(fileName);
+        Charset charset = Charset.forName("UTF-8");
+        try (BufferedWriter bufferedWriter = Files.newBufferedWriter(paths, charset)) {
+            bufferedWriter.write(fileName, 0, fileName.length());
+        }
+    }
+
+    public void nioWriteWithStream(String fileName) throws IOException {
+        Path path = Paths.get(fileName);
+        String str = "File can't be opened. Program terminate.";
+        byte[] bytes = str.getBytes(StandardCharsets.UTF_8);
+        try (OutputStream writer = Files.newOutputStream(path, CREATE, APPEND)) {
+            writer.write(bytes);
+        }
+    }
+
+    public void nioWriteWithChannel(String fileName) throws IOException {
+        String str = "Constructs an IOException with the specified cause and a detail message of (cause==null ? null :" +
+                " cause.toString()) (which typically contains the class and detail message of cause). This constructor " +
+                "is useful for IO exceptions that are little more than wrappers for other throwables. Params:" +
+                "cause – The cause (which is saved for later retrieval by the getCause() method). (A null value is permitted, " +
+                "and indicates that the cause is nonexistent or unknown.) Since: 1.6";
+        RandomAccessFile randomAccessFile = new RandomAccessFile(fileName, "rw");
+        FileChannel fileChannel = randomAccessFile.getChannel();
+        ByteBuffer byteBuffer = ByteBuffer.wrap(str.getBytes());
+        fileChannel.write(byteBuffer);
+        fileChannel.close();
+
+
+
     }
 }

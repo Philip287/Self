@@ -14,21 +14,28 @@ import java.util.SortedMap;
 public class IOMain {
     private static final String FILE_N_AME = "GradeBook.txt";
     private static final String BINARY_FILE = "Students.bin";
+    private static final String BUFFERED_FILE = "Buffered.bin";
 
     public static void main(String[] args) throws IOException {
         SortedMap<AverageStudentGrade, Set<SubjectGrade>> grades = TreeMapRunner.createGrades();
         Reader reader = new Reader();
         Writer writer = new Writer();
         //writer.writeFile(grades, FILE_N_AME);
-        //reader.readFile(FILE_N_AME);
+        // reader.readFile(FILE_N_AME);
         //processGrades(grades, writer, BINARY_FILE);
         //outputObjects(reader, BINARY_FILE);
-        System.out.println(System.getProperty("user.dir"));
+        // System.out.println(System.getProperty("user.dir"));
         FileUtils fileUtils = new FileUtils();
-      //  fileUtils.printIOFileDetails(FILE_N_AME);
-      //  fileUtils.printIOFileDetails("./");
-        fileUtils.printNioFileDetails(FILE_N_AME);
-
+        //fileUtils.printIOFileDetails(FILE_N_AME);
+        // fileUtils.printIOFileDetails("./");
+        // fileUtils.printNioFileDetails(FILE_N_AME);
+        //reader.readFileInFull(FILE_N_AME);
+        //reader.nioReadFileWithBuffer(FILE_N_AME);
+        //writer.nioWriteWithBuffer(BUFFERED_FILE);
+        //reader.nioReadWithStream(FILE_N_AME);
+        //writer.nioWriteWithStream(BUFFERED_FILE);
+        //reader.nioReadFileWithBuffer(FILE_N_AME);
+        writer.nioWriteWithChannel(BUFFERED_FILE);
 //        writer.writeWithFormatter();
 
            /*     try (FileInputStream reader = new FileInputStream(FILE_N_AME);
