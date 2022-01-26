@@ -1,0 +1,46 @@
+
+`	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(Ýó¤¸ýÿÿÿÿ
+Z	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+a	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8ÝøìêÝ/
+5
+java:S1165"Make this "s" field final.(öÜ€Òüÿÿÿÿ
+5
+java:S1165"Make this "i" field final.(ß÷­äüÿÿÿÿ
+Œ
+java:S1130	"qRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from constructor's body.(Ýó¤¸ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô´ü¤ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¦°ë
+1
+java:S1165"Make this "s2" field final.(éžº³
+6
+java:S1165"Make this "i2" field final.(åæýýýÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ü¨êq
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ô´ü¤ùÿÿÿÿ
+R
+java:S18540"7Remove this useless assignment to local variable "sec".(ßº‡¥úÿÿÿÿ
+C
+java:S14810"(Remove this unused "sec" local variable.(ßº‡¥úÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.net.Socket'.(­‡àú
+@
+java:S1068"%Remove this unused "s" private field.(öÜ€Òüÿÿÿÿ
+@
+java:S1068"%Remove this unused "i" private field.(ß÷­äüÿÿÿÿ
+<
+java:S1068"&Remove this unused "s2" private field.(éžº³
+A
+java:S1068"&Remove this unused "i2" private field.(åæýýýÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(Ô´ü¤ùÿÿÿÿ
+D
+java:S1121".Extract the assignment out of this expression.(Ç¦°ë
+C
+java:S1121$".Extract the assignment out of this expression.(ü¨êq
+I
+java:S1121*".Extract the assignment out of this expression.(Ô´ü¤ùÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ ¸
+S
+java:S1226$">Introduce a new variable instead of reusing the parameter "e".(ü¨êq

@@ -1,0 +1,19 @@
+
+5
+java:S1165"Make this "x" field final.(èé‹üûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ğêß¦ûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ı£¬ûÿÿÿÿ
+<
+java:S1181:"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(šõ€Ø
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ı£¬ûÿÿÿÿ
+<
+java:S1181D"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(šõ€Ø
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ı£¬ûÿÿÿÿ8Ùı’ûÙ/
+j
+java:S11925"HDefine a constant instead of duplicating this literal "Finally" 3 times.(ı£¬ûÿÿÿÿ8èı’ûÙ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ ¸

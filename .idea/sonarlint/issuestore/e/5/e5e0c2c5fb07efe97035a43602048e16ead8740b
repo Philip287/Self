@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÎÉÎÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚Äµ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(”õÓÎ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ëëÈ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ê¤æşÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í´üıÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¨¡Ÿ ûÿÿÿÿ
+m
+java:S1192"PDefine a constant instead of duplicating this literal "%-15s %5s %10s
+" 3 times.(‚Äµ8êôä×à/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹İ‡üÿÿÿÿ

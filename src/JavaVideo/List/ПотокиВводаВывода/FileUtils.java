@@ -57,7 +57,7 @@ public class FileUtils {
         System.out.println("Absolute path - " + absolutePath);
         System.out.println("Parent dir - " + absolutePath.getParent());
         System.out.println("Name count - " + absolutePath.getNameCount());
-        System.out.println("Sub pass - " + absolutePath.subpath(0,3));
+        System.out.println("Sub pass - " + absolutePath.subpath(0, 3));
         Path path3 = Paths.get("../../");
         System.out.println("Real path - " + path3.toRealPath());
 
@@ -67,16 +67,42 @@ public class FileUtils {
         System.out.println("File is writable - " + Files.isWritable(path));
         System.out.println("File is executable - " + Files.isExecutable(path));
 
-        System.out.println("Is the same file - " + Files.isSameFile(path,path1));
+        System.out.println("Is the same file - " + Files.isSameFile(path, path1));
 
         Path parentPath = absolutePath.getParent();
         Path filesPath = parentPath.resolve("files");
-        if(Files.notExists(filesPath)){
+        if (Files.notExists(filesPath)) {
             Files.createDirectories(filesPath);
         }
-        Files.copy(absolutePath,filesPath.resolve(path), StandardCopyOption.REPLACE_EXISTING);
+        Files.copy(absolutePath, filesPath.resolve(path), StandardCopyOption.REPLACE_EXISTING);
         Files.delete(filesPath.resolve(path));
         Files.delete(filesPath);
+    }
 
+    public void processDir() throws IOException {
+        Path dir = Paths.get("Temp");
+        if (Files.notExists(dir))
+            Files.createDirectory(dir);
+
+        Files.createDirectories(Paths.get("temp/a/b/c/d"));
+
+        Files.createTempDirectory(dir, "temp");
+
+        Iterable<Path> rootDirectories = FileSystems.getDefault().getRootDirectories();
+        for (Path rootdir : rootDirectories){
+            System.out.println(rootdir );
+        }
+
+        DirectoryStream.Filter<Path> filter = new DirectoryStream.Filter<Path>() {
+            @Override
+            public boolean accept(Path entry) throws IOException {
+                return Files.isDirectory(entry);
+            }
+        };
+
+        try (DirectoryStream<Path> paths = Files.newDirectoryStream(dir, filter)){
+             for (Path p : paths)
+                 System.out.println(p);
+        }
     }
 }

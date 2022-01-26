@@ -1,0 +1,10 @@
+
+1
+java:S3626"Remove this redundant jump.(ûÁİ…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·Ã¶™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í”·Æıÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ï ¸¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üÖ§„ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï®üÅ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á’ÿùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™

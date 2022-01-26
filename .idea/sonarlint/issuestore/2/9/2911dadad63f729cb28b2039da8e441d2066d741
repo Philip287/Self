@@ -1,0 +1,13 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ŒÿôÉ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‚ƒü
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(áè°¯
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Óóº´úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

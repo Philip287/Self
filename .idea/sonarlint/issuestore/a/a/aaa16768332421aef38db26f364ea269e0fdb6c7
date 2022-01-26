@@ -1,0 +1,9 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Ø¯ûÌøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¢˜¬üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÃ‡ø
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëîîıÿÿÿÿ8ñÍúÔÙ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïî¥8šÃşÔÙ/
+B
+java:S1128",Remove this unused import 'java.net.Socket'.(­‡àú
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™

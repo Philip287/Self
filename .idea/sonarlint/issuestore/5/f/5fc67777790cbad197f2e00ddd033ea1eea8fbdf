@@ -1,0 +1,9 @@
+
+7
+java:S1116"Remove this empty statement.(¬é‡„øÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(«œ„ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ßÙáıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ĞØ”ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¾ûÕ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™

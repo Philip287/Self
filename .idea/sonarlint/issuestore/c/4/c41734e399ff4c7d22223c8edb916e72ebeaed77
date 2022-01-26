@@ -1,0 +1,11 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô¦Ó¼
+L
+java:S1854
+"6Remove this useless assignment to local variable "ns".(°É¤»
+=
+java:S1481
+"'Remove this unused "ns" local variable.(°É¤»
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Çðõ"8ñöúêÝ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ ¸

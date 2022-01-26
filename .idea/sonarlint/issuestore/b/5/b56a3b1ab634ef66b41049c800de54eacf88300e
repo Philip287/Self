@@ -1,0 +1,15 @@
+
+^
+java:S2166
+"CRename this class to remove "Exception" or correct its inheritance.(ŞîîÁûÿÿÿÿ
+[
+java:S1854"9Remove this useless assignment to local variable "lines".(ıÒğØşÿÿÿÿ8ôâ»ºŞ/
+L
+java:S1481"*Remove this unused "lines" local variable.(ıÒğØşÿÿÿÿ8øâ»ºŞ/
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Ğï¼ºŞ/
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8Òï¼ºŞ/
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ôï¼ºŞ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™

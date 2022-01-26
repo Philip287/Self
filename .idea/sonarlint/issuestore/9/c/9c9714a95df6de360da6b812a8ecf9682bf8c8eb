@@ -1,0 +1,13 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "rez2".(ääª¯ûÿÿÿÿ8¨‚µõâ/
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(úòäG
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀñÚÏøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²èıÌûÿÿÿÿ8é³õâ/
+K
+java:S1481")Remove this unused "rez2" local variable.(ääª¯ûÿÿÿÿ8Ìµõâ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²èıÌûÿÿÿÿ8­èµõâ/
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8Íµõâ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â™«—øÿÿÿÿ

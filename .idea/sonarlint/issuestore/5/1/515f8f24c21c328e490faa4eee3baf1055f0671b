@@ -1,0 +1,9 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(œßÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´®Õ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ô©Ïœ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Æ™ƒÏÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÎ†äûÿÿÿÿ8†àéÓ×/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú¼æ¼ıÿÿÿÿ8’¢ëÓ×/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Á™

@@ -1,0 +1,150 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ªœÒ
+F
+java:S1481	"*Remove this unused "numer" local variable.(Ä‡8üò£üà/
+s
+java:S3457
+"Q%n should be used in place of \n to produce the platform-specific line separator.(´¼Ï’ıÿÿÿÿ8í½‚üà/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×®Áüÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(’ï«à
+f
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(§Éº
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾œÊ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø†å­
+?
+java:S3457""Directly inject the boolean value.(Ø†å­8îÓ•üà/
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(µÚçÒıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­®ï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÁ‹üÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(åÅÚ˜øÿÿÿÿ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¯²Ø—ùÿÿÿÿ8Ïº¡üà/
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀÀ™Üüÿÿÿÿ8Çïüà/
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¢‡ì³şÿÿÿÿ8Éïüà/
+D
+java:S3457""Directly inject the boolean value.(¢‡ì³şÿÿÿÿ8Éïüà/
+s
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(âµäôùÿÿÿÿ8Òº¡üà/
+]	java:S125"<This block of commented-out lines of code should be removed.(œÃ–ôÿÿÿÿÿ8Ëïüà/
+f
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(±‰ªM
+?
+java:S2129%"$Remove this "BigInteger" constructor(—´‘õùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(™¾¦®
+l
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(òÖ¦êşÿÿÿÿ
+n
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(‹ìˆÁ8ş…¦üà/
+s
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(Ã±óáúÿÿÿÿ8€†¦üà/
+D
+java:S3457*""Directly inject the boolean value.(Ã±óáúÿÿÿÿ8†¦üà/
+X	java:S125)"<This block of commented-out lines of code should be removed.(ø©èå8“º§üà/
+m
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(ÏÁø8‚†¦üà/
+]	java:S125+"<This block of commented-out lines of code should be removed.(Šôúÿÿÿÿ8ƒ†¦üà/
+g
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(ÏÙ©ù
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(è²¿§ÿÿÿÿÿ
+g
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(˜íˆ×
+s
+java:S34577"Q%n should be used in place of \n to produce the platform-specific line separator.(ö¢£éûÿÿÿÿ8®û©üà/
+D
+java:S34577""Directly inject the boolean value.(ö¢£éûÿÿÿÿ8¯û©üà/
+X	java:S1255"<This block of commented-out lines of code should be removed.(òìä±8Öò«üà/
+n
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(‹“‹š8ÓÂ¬üà/
+m
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(ÄşŞ38ÔÂ¬üà/
+n
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ÉÔ™å8õå¯üà/
+X	java:S125:"<This block of commented-out lines of code should be removed.(Ï›Ó8öå¯üà/
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(±Å±òşÿÿÿÿ
+m
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(ö¥°e8Å»²üà/
+n
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(™®©È8Æ»²üà/
+?
+java:S3457D""Directly inject the boolean value.(™®©È8Ç»²üà/
+]	java:S125B"<This block of commented-out lines of code should be removed.(†Âˆ‚ıÿÿÿÿ8Ç»²üà/
+g
+java:S3457H"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ–Î
+]	java:S125E"<This block of commented-out lines of code should be removed.(º„ÄÚùÿÿÿÿ8©Ò´üà/
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ê­ß¹üÿÿÿÿ
+s
+java:S3457N"Q%n should be used in place of \n to produce the platform-specific line separator.( šØşÿÿÿÿ8úàµüà/
+n
+java:S3457Q"Q%n should be used in place of \n to produce the platform-specific line separator.(çÚ8ûàµüà/
+X	java:S125O"<This block of commented-out lines of code should be removed.(ğ‰İâ8ûàµüà/
+l
+java:S3457U"Q%n should be used in place of \n to produce the platform-specific line separator.(­ëıÆüÿÿÿÿ
+]	java:S125R"<This block of commented-out lines of code should be removed.(ÍÆäñúÿÿÿÿ8ıàµüà/
+q
+java:S1192"TDefine a constant instead of duplicating this literal "%-1s : %10s %10.2f
+" 6 times.(’ï«à8’†¦üà/
+v
+java:S1192"TDefine a constant instead of duplicating this literal "%-1s : %10h %10.2f
+" 6 times.(µÚçÒıÿÿÿÿ8“†¦üà/
+q
+java:S1192"TDefine a constant instead of duplicating this literal "%-1s : %10b %10.2f
+" 6 times.(Ø†å­8“†¦üà/
+K
+java:S1121".Extract the assignment out of this expression.(’ï«à8çó£üà/
+J
+java:S1121".Extract the assignment out of this expression.(§Éº8èó£üà/
+K
+java:S1121".Extract the assignment out of this expression.(Ø†å­8èó£üà/
+P
+java:S1121".Extract the assignment out of this expression.(µÚçÒıÿÿÿÿ8èó£üà/
+P
+java:S1121".Extract the assignment out of this expression.(åÅÚ˜øÿÿÿÿ8èó£üà/
+P
+java:S1121".Extract the assignment out of this expression.(¯²Ø—ùÿÿÿÿ8éó£üà/
+P
+java:S1121".Extract the assignment out of this expression.(ÀÀ™Üüÿÿÿÿ8êó£üà/
+P
+java:S1121".Extract the assignment out of this expression.(¢‡ì³şÿÿÿÿ8ëó£üà/
+P
+java:S1121 ".Extract the assignment out of this expression.(âµäôùÿÿÿÿ8ëó£üà/
+J
+java:S1121!".Extract the assignment out of this expression.(±‰ªM8ëó£üà/
+P
+java:S1121'".Extract the assignment out of this expression.(òÖ¦êşÿÿÿÿ8•†¦üà/
+K
+java:S1121(".Extract the assignment out of this expression.(‹ìˆÁ8–†¦üà/
+P
+java:S1121*".Extract the assignment out of this expression.(Ã±óáúÿÿÿÿ8–†¦üà/
+J
+java:S1121-".Extract the assignment out of this expression.(ÏÁø8–†¦üà/
+K
+java:S1121.".Extract the assignment out of this expression.(ÏÙ©ù8–†¦üà/
+K
+java:S11214".Extract the assignment out of this expression.(˜íˆ×8ºû©üà/
+P
+java:S11217".Extract the assignment out of this expression.(ö¢£éûÿÿÿÿ8»û©üà/
+K
+java:S11218".Extract the assignment out of this expression.(‹“‹š8»û©üà/
+J
+java:S11219".Extract the assignment out of this expression.(ÄşŞ38»û©üà/
+K
+java:S1121;".Extract the assignment out of this expression.(ÉÔ™å8ìÂ¬üà/
+J
+java:S1121A".Extract the assignment out of this expression.(ö¥°e8Ü»²üà/
+K
+java:S1121D".Extract the assignment out of this expression.(™®©È8İ»²üà/
+K
+java:S1121H".Extract the assignment out of this expression.(ÿ–Î8İ»²üà/
+P
+java:S1121N".Extract the assignment out of this expression.( šØşÿÿÿÿ8áµüà/
+K
+java:S1121Q".Extract the assignment out of this expression.(çÚ8áµüà/
+P
+java:S1121U".Extract the assignment out of this expression.(­ëıÆüÿÿÿÿ8‚áµüà/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹İ‡üÿÿÿÿ

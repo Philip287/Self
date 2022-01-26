@@ -1,0 +1,21 @@
+
+Z	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(°ùÇ›
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(É®Åå
+[	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(â¦Å˜
+[	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(‚ŒÊµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ úÍùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï®üÅ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Åî’¤ùÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(Çðõ"
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¬—š‰
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(­øðÆþÿÿÿÿ
+E
+java:S2093-"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(½ úÍùÿÿÿÿ8 £Ì¶Þ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ ¸
+V
+java:S2259$"@A "NullPointerException" could be thrown; "ns" is nullable here.(çëäÆ
+]
+java:S2259"BA "NullPointerException" could be thrown; "iner" is nullable here.(±°ª¿üÿÿÿÿ
