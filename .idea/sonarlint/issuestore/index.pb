@@ -483,8 +483,6 @@ c
 Buffered.bin,f\c\fc5220beae14b0613ce4280d094f7f245c7f0fa2
 =
 GradeBook.txt,5\7\57bf8e2560b0cfdd6e8526f509a5d9035245fe8d
-r
-Bsrc/JavaVideo/List/ПотокиВводаВывода/Student.java,1\5\151ea3f3d3505cb86c2987bd68f8ac05283d66f1
 @
 BankAccounts.txt,1\3\13cd9bb4039275c93f554824399a0f94f560495a
 q
