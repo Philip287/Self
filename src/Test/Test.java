@@ -1,20 +1,28 @@
 package Test;
-
-import java.io.Console;
-
-
 public class Test {
     public static void main(String[] args) {
-
-        // получаем консоль
-        Console console = System.console();
-        if (console != null) {
-            // считываем данные с консоли
-            String login = console.readLine("Введите логин:");
-            char[] password = console.readPassword("Введите пароль:");
-
-            console.printf("Введенный логин: %s \n", login);
-            console.printf("Введенный пароль: %s \n", new String(password));
-        }
+        Person undef = new Person();
+        undef.displayInfo();
+        Person tom = new Person("Tom");
+        tom.displayInfo();
+    }
+}
+class Person{
+    String name;    // имя
+    int age;        // возраст
+    {/*начало блока инициализатора*/
+        name = "Undefined";
+        age = 18;
+    }/*конец блока инициализатора*/
+    Person(){}
+    Person(String name){
+        this.name = name;
+    }
+    Person(String name, int age){
+        this.name = name;
+        this.age = age;
+    }
+    void displayInfo(){
+        System.out.printf("Name: %s \tAge: %d\n", name, age);
     }
 }
