@@ -175,8 +175,6 @@ T
 $src/Glava11/Klasswork/Pet/Mouse.java,9\2\92110baa7a6452b5cb1845086ac194a51b4f234d
 S
 #src/Glava11/Klasswork/Pet/Mutt.java,3\e\3efdde735c605b8d179e34f830f98c8679609437
-U
-%src/Glava11/Klasswork/Pet/Person.java,0\f\0f244bee54c1e4b83dffdab20c8fc9a6d55edb03
 R
 "src/Glava11/Klasswork/Pet/Pet.java,b\9\b9bbecb2cec6f4165ac93b8a3c0265e5ac4c9eea
 Y
