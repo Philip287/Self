@@ -1,5 +1,9 @@
 package JavaVideo.List.LambdaExpressions;
 
+import JavaVideo.List.LambdaExpressions.model.Circle;
+import JavaVideo.List.LambdaExpressions.model.Rectangle;
+import JavaVideo.List.LambdaExpressions.model.Square;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

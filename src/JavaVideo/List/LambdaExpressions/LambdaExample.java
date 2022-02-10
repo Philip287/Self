@@ -1,6 +1,6 @@
 package JavaVideo.List.LambdaExpressions;
 
-import com.sun.deploy.util.StringUtils;
+import JavaVideo.List.LambdaExpressions.model.Circle;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,8 +13,22 @@ interface ElementProcessor<T extends Number> {
 }
 
 @FunctionalInterface
-interface ExecutiveFunction {
+interface Operation {
     void process();
+
+    static void measure(Operation function) {
+        long start = System.currentTimeMillis();
+        function.process();
+        long end = System.currentTimeMillis();
+        System.out.println("Time spent " + (end - start));
+    }
+
+    default Operation combineOperation(Operation that) {
+        return () -> {
+            process();
+            that.process();
+        };
+    }
 }
 
 public class LambdaExample {
@@ -33,19 +47,22 @@ public class LambdaExample {
         doubleList.add(4.13);
         doubleList.add(12.2);
 
-        processElement(intList, x -> Math.sin(x.doubleValue()));
-        processElement(doubleList, x -> Math.sin(x.doubleValue()));
+        //processElement(intList, x -> Math.sin(x.doubleValue()));
+        //processElement(doubleList, x -> Math.sin(x.doubleValue()));
 
-        TimeUtil.measure(() -> Arrays.sort(createRandomArray()));
+        Operation operation1 = () -> Arrays.sort(createRandomArray());
+        Operation operation2 = () -> Arrays.sort(createRandomArray());
+        Operation.measure(operation1.combineOperation(operation2));
 
-        String s = "Hello ";
-        Double d = 0.123;
+
         /*
         CustomClass::staticMethod
         customClassInstance::nonStaticMethod
         CustomClass::nonStaticMethod
         CustomClass::new
          */
+    /*    String s = "Hello ";
+        Double d = 0.123;
 
         TransformUtils<Double> doubleUtilsUtils = new TransformUtils<>();
         System.out.println(doubleUtilsUtils.transform(d, Math::sin));
@@ -63,7 +80,14 @@ public class LambdaExample {
         LambdaScopeTest scope = new LambdaScopeTest();
         LambdaScopeTest.LambdaScopeInner inner = scope.new LambdaScopeInner();
         inner.testScope(9999.000);
+*/
+        Circle circle = new Circle();
+        System.out.println(circle.calcSomething());
+    }
 
+    private static void processString(){
+        String s = "Hello ";
+        Double d = 0.123;
     }
 
     private static <T extends Number> void processElement(List<T> intList, ElementProcessor function) {
@@ -87,13 +111,4 @@ public class LambdaExample {
         return myArray;
     }
 
-    public static class TimeUtil {
-
-        private static void measure(ExecutiveFunction function) {
-            long start = System.currentTimeMillis();
-            function.process();
-            long end = System.currentTimeMillis();
-            System.out.println("Time spent " + (end - start));
-        }
-    }
 }
