@@ -1,11 +1,15 @@
 package JavaVideo.List.streams.model;
+import java.util.Objects;
 
 public class Employee {
     private int id;
     private String firstName;
     private String lastNAme;
     private Integer salary;
-
+    // конструктор по умолчанию:
+    public Employee() {
+    }
+    // Параметризированный конструктор:
     public Employee(int id, String firstName, String lastNAme, Integer salary) {
         this.id = id;
         this.firstName = firstName;
@@ -50,5 +54,18 @@ public class Employee {
         return "Employee: id= " + id +
                 ", firstName= " + firstName + ", lastNAme= " + lastNAme +
                 ", salary=" + salary;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return id == employee.id && Objects.equals(firstName, employee.firstName) && Objects.equals(lastNAme, employee.lastNAme) && Objects.equals(salary, employee.salary);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, firstName, lastNAme, salary);
     }
 }
